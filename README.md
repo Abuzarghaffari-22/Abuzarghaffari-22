@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B2A41&height=190&section=header&text=Abuzar%20Ghaffari&fontSize=44&fontColor=58A6FF&fontAlignY=32&desc=AI%20Engineer%20%7C%20Machine%20Learning%2C%20Computer%20Vision%2C%20Generative%20AI%2C%20Agentic%20AI&descAlignY=52&descSize=14&descColor=8B949E&animation=fadeIn" alt="Header banner — Abuzar Ghaffari, AI Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B2A41&height=190&section=header&text=Abuzar%20Ghaffari&fontSize=44&fontColor=#FFFFFF&fontAlignY=32&desc=AI%20Engineer%20%7C%20Machine%20Learning%2C%20Computer%20Vision%2C%20Generative%20AI%2C%20Agentic%20AI&descAlignY=52&descSize=14&descColor=8B949E&animation=fadeIn" alt="Header banner — Abuzar Ghaffari, AI Engineer" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=1300&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=AI+Engineer;Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+Real-Time+Systems;Generative+AI+%26+Agentic+Systems;Building+Deployable+AI+Systems" alt="Typing animation cycling through AI engineering focus areas" />
 
