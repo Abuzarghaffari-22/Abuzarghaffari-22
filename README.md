@@ -137,9 +137,6 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
   <img src="https://cdn.simpleicons.org/docker/008FCC" width="28" height="28" alt="Docker" style="vertical-align:middle;margin-right:8px;" />
   <span style="vertical-align:middle;margin-right:20px;">Docker</span>
 
-  <img src="https://cdn.simpleicons.org/kubernetes/008FCC" width="28" height="28" alt="Kubernetes" style="vertical-align:middle;margin-right:8px;" />
-  <span style="vertical-align:middle;margin-right:20px;">Kubernetes</span>
-
   <img src="https://cdn.simpleicons.org/githubactions/008FCC" width="28" height="28" alt="GitHub Actions" style="vertical-align:middle;" />
   <span style="vertical-align:middle;">CI/CD</span>
 </div>
@@ -243,9 +240,9 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
 
 <img src="https://cdn.simpleicons.org/github/008FCC" width="18" height="18" alt="GitHub" aria-hidden="true"/> **GitHub** — [github.com/Abuzarghaffari-22](https://github.com/Abuzarghaffari-22)
 <br/>
-<img src="assets/linkedin.svg" width="18" height="18" alt="LinkedIn" aria-hidden="true"/> **LinkedIn** — [linkedin.com/in/abuzarghaffari](https://linkedin.com/in/abuzarghaffari)
+<img src="assets/linkedin.svg" width="18" height="18" alt="LinkedIn" aria-hidden="true"/> **LinkedIn** — [linkedin.com/in/abuzarghaffari](https://www.linkedin.com/in/abuzar-ghaffari-197b062b2/)
 <br/>
-<img src="https://cdn.simpleicons.org/gmail/008FCC" width="18" height="18" alt="Email" aria-hidden="true"/> **Email** — [ag.businessofficial22@gmail.com](mailto:ag.businessofficial22@gmail.com)
+<img src="https://cdn.simpleicons.org/gmail/008FCC" width="18" height="18" alt="Email" aria-hidden="true"/> **Email** — [abuzarghaffari791@gmail.com](mailto:abuzarghaffari791@gmail.com)
 <br/>
 <img src="https://cdn.simpleicons.org/googledrive/008FCC" width="18" height="18" alt="CV" aria-hidden="true"/> **CV** — [View Résumé](https://drive.google.com/your-cv-link)
 
