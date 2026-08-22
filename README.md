@@ -241,7 +241,7 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 <br/>
 <img src="https://cdn.simpleicons.org/gmail/008FCC" width="18" height="18" alt="Email"/> **Email** — [ag.businessofficial22@gmail.com](mailto:ag.businessofficial22@gmail.com)
 <br/>
-<img src="https://cdn.simpleicons.org/googledrive/008FCC" width="18" height="18" alt="CV"/> **CV** — [View Résumé](https://drive.google.com/file/d/your-cv-id/view)
+<img src="https://cdn.simpleicons.org/googledrive/008FCC" width="18" height="18" alt="CV"/> **CV** — [View Résumé](https://drive.google.com/your-cv-link)
 
 <br/>
 
