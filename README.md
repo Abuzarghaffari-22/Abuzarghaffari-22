@@ -70,31 +70,99 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
 
 **Machine Learning & Research**
 <br/>
-<img src="https://cdn.simpleicons.org/python/008FCC" width="20" height="20" alt="Python"/> Python&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pytorch/008FCC" width="20" height="20" alt="PyTorch"/> PyTorch&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/yolov5/008FCC" width="20" height="20" alt="YOLO"/> YOLO&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opencv/008FCC" width="20" height="20" alt="OpenCV"/> OpenCV
+<div>
+  <img src="https://cdn.simpleicons.org/python/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">Python</span>
+
+  <img src="https://cdn.simpleicons.org/pytorch/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">PyTorch</span>
+
+  <img src="https://cdn.simpleicons.org/yolov5/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">YOLO</span>
+
+  <img src="https://cdn.simpleicons.org/opencv/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;">OpenCV</span>
+</div>
 
 **Generative AI & Agents**
 <br/>
-RAG · Prompt Engineering · Hugging Face · Agentic Workflows · Multimodal AI · LLM applications
+<div>
+  <img src="https://cdn.simpleicons.org/huggingface/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">Hugging Face</span>
+
+  <img src="https://cdn.simpleicons.org/transformers/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">Transformers</span>
+
+  <span style="vertical-align:middle;">RAG · Prompt Engineering · Agentic Workflows · Multimodal AI</span>
+</div>
 
 **Backend & APIs**
 <br/>
-<img src="https://cdn.simpleicons.org/fastapi/008FCC" width="20" height="20" alt="FastAPI"/> FastAPI&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nodedotjs/008FCC" width="20" height="20" alt="Node.js"/> Node.js&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/express/008FCC" width="20" height="20" alt="Express"/> Express
+<div>
+  <img src="https://cdn.simpleicons.org/fastapi/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">FastAPI</span>
+
+  <img src="https://cdn.simpleicons.org/nodedotjs/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">Node.js</span>
+
+  <img src="https://cdn.simpleicons.org/express/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;">Express</span>
+</div>
 
 **Frontend**
 <br/>
-<img src="https://cdn.simpleicons.org/typescript/008FCC" width="20" height="20" alt="TypeScript"/> TypeScript&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/008FCC" width="20" height="20" alt="JavaScript"/> JavaScript&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nextdotjs/008FCC" width="20" height="20" alt="Next.js"/> Next.js
+<div>
+  <img src="https://cdn.simpleicons.org/typescript/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">TypeScript</span>
+
+  <img src="https://cdn.simpleicons.org/javascript/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">JavaScript</span>
+
+  <img src="https://cdn.simpleicons.org/nextdotjs/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;">Next.js</span>
+</div>
 
 **Databases & Storage**
 <br/>
-<img src="https://cdn.simpleicons.org/mysql/008FCC" width="20" height="20" alt="MySQL"/> MySQL&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/008FCC" width="20" height="20" alt="PostgreSQL"/> PostgreSQL&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mongodb/008FCC" width="20" height="20" alt="MongoDB"/> MongoDB
+<div>
+  <img src="https://cdn.simpleicons.org/mysql/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">MySQL</span>
+
+  <img src="https://cdn.simpleicons.org/postgresql/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">PostgreSQL</span>
+
+  <img src="https://cdn.simpleicons.org/mongodb/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;">MongoDB</span>
+</div>
 
 **Robotics & Edge**
 <br/>
-<img src="https://cdn.simpleicons.org/ros/008FCC" width="20" height="20" alt="ROS2"/> ROS2&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/jetbrains/008FCC" width="20" height="20" alt="Edge/ONNX"/> ONNX & Edge optimizations
+<div>
+  <img src="https://cdn.simpleicons.org/ros/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">ROS2</span>
+
+  <img src="https://cdn.simpleicons.org/onnx/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;">ONNX (Edge)</span>
+</div>
 
 **Tools & DevOps**
 <br/>
-<img src="https://cdn.simpleicons.org/git/008FCC" width="20" height="20" alt="Git"/> Git&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/008FCC" width="20" height="20" alt="GitHub"/> GitHub&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker/008FCC" width="20" height="20" alt="Docker"/> Docker&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/kubernetes/008FCC" width="20" height="20" alt="Kubernetes"/> Kubernetes&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/githubactions/008FCC" width="20" height="20" alt="GitHub Actions"/> CI/CD
+<div>
+  <img src="https://cdn.simpleicons.org/git/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">Git</span>
+
+  <img src="https://cdn.simpleicons.org/github/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">GitHub</span>
+
+  <img src="https://cdn.simpleicons.org/docker/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">Docker</span>
+
+  <img src="https://cdn.simpleicons.org/kubernetes/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;">Kubernetes</span>
+
+  <img src="https://cdn.simpleicons.org/githubactions/008FCC" width="28" height="28" alt="" aria-hidden="true" style="vertical-align:middle;margin-left:8px;" />
+  <span style="vertical-align:middle;margin-left:8px;">CI/CD</span>
+</div>
 
 <br/>
 
@@ -167,9 +235,9 @@ RAG · Prompt Engineering · Hugging Face · Agentic Workflows · Multimodal AI 
 ### My Approach
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-light.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-dark.svg">
-  <img width="100%" src="assets/pipeline-dark.svg" alt="Plan, Data, Model, Train, Evaluate, Integrate, Deploy, Monitor"/>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.svg">
+  <img width="100%" src="assets/pipeline-light.svg" alt="Plan, Data, Model, Train, Evaluate, Integrate, Deploy, Monitor" />
 </picture>
 
 - Build reproducible systems, not isolated notebooks
