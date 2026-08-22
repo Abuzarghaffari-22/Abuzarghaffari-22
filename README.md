@@ -71,31 +71,34 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
 **Machine Learning & Research**<br/>
 
   <img src="https://cdn.simpleicons.org/python/008FCC" width="28" height="28" alt="Python logo" style="vertical-align:middle;margin-right:8px;" />
-  </br>
+
   <span style="vertical-align:middle;margin-right:20px;">Python</span>
 
   <img src="https://cdn.simpleicons.org/pytorch/008FCC" width="28" height="28" alt="PyTorch logo" style="vertical-align:middle;margin-right:8px;" />
-  </br>
+  
   <span style="vertical-align:middle;margin-right:20px;">PyTorch</span>
   
   <img src="assets/yolo.svg" width="28" height="28" alt="YOLO logo" style="vertical-align:middle;margin-right:8px;" />
-  </br>
+
   <span style="vertical-align:middle;margin-right:20px;">YOLO</span>
 
   <img src="https://cdn.simpleicons.org/opencv/008FCC" width="28" height="28" alt="OpenCV logo" style="vertical-align:middle;margin-right:8px;" />
-  </br>
+  
   <span style="vertical-align:middle;">OpenCV</span>
 </div>
 
 **Generative AI & Agents**<br/>
 <div>
   <img src="https://cdn.simpleicons.org/huggingface/008FCC" width="28" height="28" alt="Hugging Face logo" style="vertical-align:middle;margin-right:8px;" />
+  
   <span style="vertical-align:middle;margin-right:20px;">Hugging Face</span>
 
   <img src="assets/transformers.svg" width="28" height="28" alt="Transformers logo" style="vertical-align:middle;margin-right:8px;" />
+  
   <span style="vertical-align:middle;margin-right:20px;">Transformers</span>
 
   <img src="assets/llamaindex.svg" width="28" height="28" alt="LlamaIndex logo" style="vertical-align:middle;margin-right:8px;" />
+  
   <span style="vertical-align:middle;margin-right:20px;">RAG / LlamaIndex</span>
 
 </div>
@@ -103,63 +106,79 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
 **Backend & APIs**<br/>
 <div>
   <img src="https://cdn.simpleicons.org/fastapi/008FCC" width="28" height="28" alt="FastAPI" style="vertical-align:middle;margin-right:8px;" />
+  
   <span style="vertical-align:middle;margin-right:20px;">FastAPI</span>
 
   <img src="https://cdn.simpleicons.org/nodedotjs/008FCC" width="28" height="28" alt="Node.js" style="vertical-align:middle;margin-right:8px;" />
+  
   <span style="vertical-align:middle;margin-right:20px;">Node.js</span>
 
   <img src="https://cdn.simpleicons.org/express/008FCC" width="28" height="28" alt="Express" style="vertical-align:middle;margin-right:8px;" />
+  
   <span style="vertical-align:middle;">Express</span>
 </div>
 
 **Frontend**<br/>
 <div>
   <img src="https://cdn.simpleicons.org/typescript/008FCC" width="28" height="28" alt="TypeScript" style="vertical-align:middle;margin-right:8px;" />
+  
   <span style="vertical-align:middle;margin-right:20px;">TypeScript</span>
 
   <img src="https://cdn.simpleicons.org/javascript/008FCC" width="28" height="28" alt="JavaScript" style="vertical-align:middle;margin-right:8px;" />
+  
   <span style="vertical-align:middle;margin-right:20px;">JavaScript</span>
 
   <img src="https://cdn.simpleicons.org/nextdotjs/008FCC" width="28" height="28" alt="Next.js" style="vertical-align:middle;" />
+  
   <span style="vertical-align:middle;">Next.js</span>
 </div>
 
 **Databases & Storage**<br/>
 <div>
   <img src="https://cdn.simpleicons.org/mysql/008FCC" width="28" height="28" alt="MySQL" style="vertical-align:middle;margin-right:8px;" />
+  
   <span style="vertical-align:middle;margin-right:20px;">MySQL</span>
 
   <img src="https://cdn.simpleicons.org/postgresql/008FCC" width="28" height="28" alt="PostgreSQL" style="vertical-align:middle;margin-right:8px;" />
+  
   <span style="vertical-align:middle;margin-right:20px;">PostgreSQL</span>
 
   <img src="https://cdn.simpleicons.org/mongodb/008FCC" width="28" height="28" alt="MongoDB" style="vertical-align:middle;" />
+  
   <span style="vertical-align:middle;">MongoDB</span>
 </div>
 
 **Robotics & Edge**<br/>
 <div>
   <img src="https://cdn.simpleicons.org/ros/008FCC" width="28" height="28" alt="ROS2" style="vertical-align:middle;margin-right:8px;" />
+  
   <span style="vertical-align:middle;margin-right:20px;">ROS2</span>
 
   <img src="https://cdn.simpleicons.org/opencv/008FCC" width="28" height="28" alt="OpenCV" style="vertical-align:middle;" />
+  
   <span style="vertical-align:middle;">OpenCV</span>
 </div>
 
 **Tools & DevOps**<br/>
 <div>
   <img src="https://cdn.simpleicons.org/git/008FCC" width="28" height="28" alt="Git" style="vertical-align:middle;margin-right:8px;" />
+  
   <span style="vertical-align:middle;margin-right:20px;">Git</span>
 
   <img src="https://cdn.simpleicons.org/github/008FCC" width="28" height="28" alt="GitHub" style="vertical-align:middle;margin-right:8px;" />
+  
   <span style="vertical-align:middle;margin-right:20px;">GitHub</span>
 
   <img src="https://cdn.simpleicons.org/docker/008FCC" width="28" height="28" alt="Docker" style="vertical-align:middle;margin-right:8px;" />
+  
   <span style="vertical-align:middle;margin-right:20px;">Docker</span>
 
   <img src="https://cdn.simpleicons.org/kubernetes/008FCC" width="28" height="28" alt="Kubernetes" style="vertical-align:middle;margin-right:8px;" />
+  
   <span style="vertical-align:middle;margin-right:20px;">Kubernetes</span>
 
   <img src="https://cdn.simpleicons.org/githubactions/008FCC" width="28" height="28" alt="GitHub Actions" style="vertical-align:middle;" />
+  
   <span style="vertical-align:middle;">CI/CD</span>
 </div>
 
