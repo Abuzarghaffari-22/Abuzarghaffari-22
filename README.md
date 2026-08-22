@@ -110,7 +110,7 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 #### AI-Powered ANPR System
 *Final Year Project (BSCS) — real-time Automatic Number Plate Recognition built around Pakistani road and plate conditions, connecting live camera detections to a vehicle registry.*
 
-**COMPUTER VISION** · **OCR** · **REAL TIME**
+<img src="assets/chips/computer-vision.svg" width="120" height="20" alt="Computer Vision" style="vertical-align:middle;margin-right:6px;"/> <img src="assets/chips/ocr.svg" width="80" height="20" alt="OCR" style="vertical-align:middle;margin-right:6px;"/> <img src="assets/chips/real-time.svg" width="80" height="20" alt="Real-time" style="vertical-align:middle;margin-right:6px;"/>
 
 **Perception:** YOLOv11, custom-trained · **OCR:** Tesseract, multi-variant voting · **Backend:** FastAPI, JWT-secured REST API · **Database:** MySQL, fuzzy-matching
 
@@ -126,7 +126,7 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 #### MediCare Clinic — AI Medical Assistant Platform
 *Full-stack healthcare platform pairing an AI symptom-triage assistant with everyday clinic operations.*
 
-**GENERATIVE AI** · **HEALTHCARE** · **FULL STACK**
+<img src="assets/chips/generative-ai.svg" width="110" height="20" alt="Generative AI" style="vertical-align:middle;margin-right:6px;"/> <img src="assets/chips/healthcare.svg" width="95" height="20" alt="Healthcare" style="vertical-align:middle;margin-right:6px;"/> <img src="assets/chips/full-stack.svg" width="95" height="20" alt="Full Stack" style="vertical-align:middle;margin-right:6px;"/>
 
 **AI Layer:** Python + FastAPI, HuggingFace Inference API · **Backend:** Node.js + Express, MongoDB · **Frontend:** React 18 + Vite, TailwindCSS
 
@@ -142,7 +142,7 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 #### Bella Cucina — AI Restaurant Chatbot
 *Full-stack conversational ordering and reservations assistant, built as three independent services communicating over REST and WebSockets.*
 
-**LLM APPLICATIONS** · **REAL TIME** · **FULL STACK**
+<img src="assets/chips/llm-apps.svg" width="140" height="20" alt="LLM Applications" style="vertical-align:middle;margin-right:6px;"/> <img src="assets/chips/real-time.svg" width="80" height="20" alt="Real-time" style="vertical-align:middle;margin-right:6px;"/> <img src="assets/chips/full-stack.svg" width="95" height="20" alt="Full Stack" style="vertical-align:middle;margin-right:6px;"/>
 
 **AI Layer:** Python + FastAPI, HuggingFace Inference API, prompt-injection guard · **Backend:** Node.js + Express, MongoDB, Socket.IO · **Frontend:** React 18 + Vite
 
@@ -158,7 +158,7 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 #### DoDo Bot
 *ROS2-based robotic perception system performing real-time multi-class object detection for autonomous navigation and environment awareness.*
 
-**ROBOTICS** · **COMPUTER VISION** · **ROS2**
+<img src="assets/chips/robotics.svg" width="95" height="20" alt="Robotics" style="vertical-align:middle;margin-right:6px;"/> <img src="assets/chips/computer-vision.svg" width="120" height="20" alt="Computer Vision" style="vertical-align:middle;margin-right:6px;"/> <img src="assets/chips/ros2.svg" width="65" height="20" alt="ROS2" style="vertical-align:middle;margin-right:6px;"/>
 
 **Perception:** YOLO11, OpenCV · **Platform:** ROS2 node architecture, Linux
 
@@ -173,7 +173,7 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 #### NovaMind
 *Multimodal AI platform focused on generative AI and intelligent application development.*
 
-**GENERATIVE AI** · **AGENTIC AI** · **MULTIMODAL**
+<img src="assets/chips/generative-ai.svg" width="110" height="20" alt="Generative AI" style="vertical-align:middle;margin-right:6px;"/> <img src="assets/chips/agentic-ai.svg" width="95" height="20" alt="Agentic AI" style="vertical-align:middle;margin-right:6px;"/> <img src="assets/chips/multimodal.svg" width="95" height="20" alt="Multimodal" style="vertical-align:middle;margin-right:6px;"/>
 
 **Focus:** LLM-powered applications, multimodal processing, agentic workflows
 
