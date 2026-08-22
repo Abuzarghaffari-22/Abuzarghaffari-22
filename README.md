@@ -34,9 +34,9 @@
 
 ## About
 
-I design and build machine learning, computer vision, and generative AI systems, then carry them past the notebook stage into working software — FastAPI and Node.js backends, real-time data pipelines, and deployable APIs.
+I design and build machine learning, computer vision, and generative AI systems, then carry them past the notebook stage into working software — **FastAPI and Node.js backends**, **real-time data pipelines**, and **deployable APIs**.
 
-My work moves across the full lifecycle: system design, model development in PyTorch and YOLO, integration through TypeScript/Next.js applications, and LLM-based or agentic architectures on the generative side. The throughline is the same across all of it — models that are evaluated, integrated, and shipped as part of a real system, not isolated experiments.
+My work moves across the full lifecycle: system design, model development in **PyTorch and YOLO**, integration through **TypeScript/Next.js applications**, and **LLM-based or agentic architectures** on the generative side. The throughline is the same across all of it — models that are evaluated, integrated, and shipped as part of a real system, not isolated experiments.
 
 <br/>
 
@@ -60,13 +60,13 @@ My work moves across the full lifecycle: system design, model development in PyT
 ## Technology Stack
 
 #### AI / Machine Learning
-<img src="https://cdn.simpleicons.org/python/008FCC/00D9FF" width="20" height="20" alt="Python"/> Python &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/pytorch/008FCC/00D9FF" width="20" height="20" alt="PyTorch"/> PyTorch &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/opencv/008FCC/00D9FF" width="20" height="20" alt="OpenCV"/> OpenCV &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/numpy/008FCC/00D9FF" width="20" height="20" alt="NumPy"/> NumPy &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/pandas/008FCC/00D9FF" width="20" height="20" alt="pandas"/> pandas &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/scikitlearn/008FCC/00D9FF" width="20" height="20" alt="scikit-learn"/> scikit-learn &nbsp;&nbsp; `YOLO` &nbsp;&nbsp; `OCR`
+<img src="https://cdn.simpleicons.org/python/008FCC/00D9FF" width="20" height="20" alt="Python"/> Python &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/pytorch/008FCC/00D9FF" width="20" height="20" alt="PyTorch"/> PyTorch &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/opencv/008FCC/00D9FF" width="20" height="20" alt="OpenCV"/> OpenCV &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/numpy/008FCC/00D9FF" width="20" height="20" alt="NumPy"/> NumPy &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/pandas/008FCC/00D9FF" width="20" height="20" alt="pandas"/> pandas &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/scikitlearn/008FCC/00D9FF" width="20" height="20" alt="scikit-learn"/> scikit-learn &nbsp;&nbsp; ![YOLO](https://img.shields.io/badge/YOLO-008FCC?style=flat-square) &nbsp;&nbsp; ![OCR](https://img.shields.io/badge/OCR-008FCC?style=flat-square)
 
 #### Generative AI
-`LLM Applications` &nbsp;&nbsp; `RAG` &nbsp;&nbsp; `Prompt Engineering` &nbsp;&nbsp; `AI Agents` &nbsp;&nbsp; `Agentic AI` &nbsp;&nbsp; `Multimodal AI`
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-6C63FF?style=flat-square) &nbsp;&nbsp; ![RAG](https://img.shields.io/badge/RAG-6C63FF?style=flat-square) &nbsp;&nbsp; ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=flat-square) &nbsp;&nbsp; ![AI Agents](https://img.shields.io/badge/AI_Agents-6C63FF?style=flat-square) &nbsp;&nbsp; ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6C63FF?style=flat-square) &nbsp;&nbsp; ![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-6C63FF?style=flat-square)
 
 #### Backend
-<img src="https://cdn.simpleicons.org/fastapi/008FCC/00D9FF" width="20" height="20" alt="FastAPI"/> FastAPI &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/nodedotjs/008FCC/00D9FF" width="20" height="20" alt="Node.js"/> Node.js &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/express/008FCC/00D9FF" width="20" height="20" alt="Express.js"/> Express.js &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/socketdotio/008FCC/00D9FF" width="20" height="20" alt="Socket.IO"/> Socket.IO &nbsp;&nbsp; `REST APIs` &nbsp;&nbsp; `WebSockets`
+<img src="https://cdn.simpleicons.org/fastapi/008FCC/00D9FF" width="20" height="20" alt="FastAPI"/> FastAPI &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/nodedotjs/008FCC/00D9FF" width="20" height="20" alt="Node.js"/> Node.js &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/express/008FCC/00D9FF" width="20" height="20" alt="Express.js"/> Express.js &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/socketdotio/008FCC/00D9FF" width="20" height="20" alt="Socket.IO"/> Socket.IO &nbsp;&nbsp; ![REST APIs](https://img.shields.io/badge/REST_APIs-008FCC?style=flat-square) &nbsp;&nbsp; ![WebSockets](https://img.shields.io/badge/WebSockets-008FCC?style=flat-square)
 
 #### Frontend
 <img src="https://cdn.simpleicons.org/typescript/008FCC/00D9FF" width="20" height="20" alt="TypeScript"/> TypeScript &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/javascript/008FCC/00D9FF" width="20" height="20" alt="JavaScript"/> JavaScript &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/react/008FCC/00D9FF" width="20" height="20" alt="React"/> React &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/nextdotjs/008FCC/00D9FF" width="20" height="20" alt="Next.js"/> Next.js
@@ -75,10 +75,10 @@ My work moves across the full lifecycle: system design, model development in PyT
 <img src="https://cdn.simpleicons.org/mysql/008FCC/00D9FF" width="20" height="20" alt="MySQL"/> MySQL &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/postgresql/008FCC/00D9FF" width="20" height="20" alt="PostgreSQL"/> PostgreSQL &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/mongodb/008FCC/00D9FF" width="20" height="20" alt="MongoDB"/> MongoDB
 
 #### Robotics
-<img src="https://cdn.simpleicons.org/ros/008FCC/00D9FF" width="20" height="20" alt="ROS2"/> ROS2 &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/opencv/008FCC/00D9FF" width="20" height="20" alt="OpenCV"/> OpenCV &nbsp;&nbsp; `YOLO-based Perception` &nbsp;&nbsp; `Autonomous Systems`
+<img src="https://cdn.simpleicons.org/ros/008FCC/00D9FF" width="20" height="20" alt="ROS2"/> ROS2 &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/opencv/008FCC/00D9FF" width="20" height="20" alt="OpenCV"/> OpenCV &nbsp;&nbsp; ![YOLO-based Perception](https://img.shields.io/badge/YOLO--based_Perception-6C63FF?style=flat-square) &nbsp;&nbsp; ![Autonomous Systems](https://img.shields.io/badge/Autonomous_Systems-6C63FF?style=flat-square)
 
 #### Tools / DevOps
-<img src="https://cdn.simpleicons.org/git/008FCC/00D9FF" width="20" height="20" alt="Git"/> Git &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/github/008FCC/00D9FF" width="20" height="20" alt="GitHub"/> GitHub &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/docker/008FCC/00D9FF" width="20" height="20" alt="Docker"/> Docker &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/linux/008FCC/00D9FF" width="20" height="20" alt="Linux"/> Linux &nbsp;&nbsp; `VS Code` &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/googlecolab/008FCC/00D9FF" width="20" height="20" alt="Google Colab"/> Google Colab &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/roboflow/008FCC/00D9FF" width="20" height="20" alt="Roboflow"/> Roboflow
+<img src="https://cdn.simpleicons.org/git/008FCC/00D9FF" width="20" height="20" alt="Git"/> Git &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/github/008FCC/00D9FF" width="20" height="20" alt="GitHub"/> GitHub &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/docker/008FCC/00D9FF" width="20" height="20" alt="Docker"/> Docker &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/linux/008FCC/00D9FF" width="20" height="20" alt="Linux"/> Linux &nbsp;&nbsp; ![VS Code](https://img.shields.io/badge/VS_Code-008FCC?style=flat-square) &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/googlecolab/008FCC/00D9FF" width="20" height="20" alt="Google Colab"/> Google Colab &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/roboflow/008FCC/00D9FF" width="20" height="20" alt="Roboflow"/> Roboflow
 
 <br/>
 
@@ -102,7 +102,7 @@ Real-time Automatic Number Plate Recognition system built around Pakistani road 
 **Realtime:** WebSockets streaming to the dashboard
 **Frontend:** Next.js 14 + TailwindCSS admin dashboard
 
-<img src="https://cdn.simpleicons.org/fastapi/008FCC/00D9FF" width="18" height="18" alt="FastAPI"/> <img src="https://cdn.simpleicons.org/mysql/008FCC/00D9FF" width="18" height="18" alt="MySQL"/> <img src="https://cdn.simpleicons.org/nextdotjs/008FCC/00D9FF" width="18" height="18" alt="Next.js"/> <img src="https://cdn.simpleicons.org/tailwindcss/008FCC/00D9FF" width="18" height="18" alt="Tailwind CSS"/> <img src="https://cdn.simpleicons.org/jsonwebtokens/008FCC/00D9FF" width="18" height="18" alt="JWT"/> `YOLOv11` `Tesseract` `WebSockets`
+<img src="https://cdn.simpleicons.org/fastapi/008FCC/00D9FF" width="18" height="18" alt="FastAPI"/> <img src="https://cdn.simpleicons.org/mysql/008FCC/00D9FF" width="18" height="18" alt="MySQL"/> <img src="https://cdn.simpleicons.org/nextdotjs/008FCC/00D9FF" width="18" height="18" alt="Next.js"/> <img src="https://cdn.simpleicons.org/tailwindcss/008FCC/00D9FF" width="18" height="18" alt="Tailwind CSS"/> <img src="https://cdn.simpleicons.org/jsonwebtokens/008FCC/00D9FF" width="18" height="18" alt="JWT"/> ![YOLOv11](https://img.shields.io/badge/YOLOv11-008FCC?style=flat-square) ![Tesseract](https://img.shields.io/badge/Tesseract-008FCC?style=flat-square) ![WebSockets](https://img.shields.io/badge/WebSockets-008FCC?style=flat-square)
 
 - Custom-trained YOLOv11 model detects plates from a live webcam or IP camera feed
 - Multi-variant OCR voting pipeline improves read accuracy on Pakistani plates
@@ -142,7 +142,7 @@ Full-stack conversational ordering and reservations assistant, built as three in
 **Frontend:** React 18 + Vite, Zustand
 **Auth:** JWT-protected admin panel
 
-<img src="https://cdn.simpleicons.org/python/008FCC/00D9FF" width="18" height="18" alt="Python"/> <img src="https://cdn.simpleicons.org/fastapi/008FCC/00D9FF" width="18" height="18" alt="FastAPI"/> <img src="https://cdn.simpleicons.org/huggingface/008FCC/00D9FF" width="18" height="18" alt="Hugging Face"/> <img src="https://cdn.simpleicons.org/nodedotjs/008FCC/00D9FF" width="18" height="18" alt="Node.js"/> <img src="https://cdn.simpleicons.org/express/008FCC/00D9FF" width="18" height="18" alt="Express.js"/> <img src="https://cdn.simpleicons.org/mongodb/008FCC/00D9FF" width="18" height="18" alt="MongoDB"/> <img src="https://cdn.simpleicons.org/socketdotio/008FCC/00D9FF" width="18" height="18" alt="Socket.IO"/> <img src="https://cdn.simpleicons.org/react/008FCC/00D9FF" width="18" height="18" alt="React"/> <img src="https://cdn.simpleicons.org/vite/008FCC/00D9FF" width="18" height="18" alt="Vite"/> <img src="https://cdn.simpleicons.org/jsonwebtokens/008FCC/00D9FF" width="18" height="18" alt="JWT"/> `Zustand`
+<img src="https://cdn.simpleicons.org/python/008FCC/00D9FF" width="18" height="18" alt="Python"/> <img src="https://cdn.simpleicons.org/fastapi/008FCC/00D9FF" width="18" height="18" alt="FastAPI"/> <img src="https://cdn.simpleicons.org/huggingface/008FCC/00D9FF" width="18" height="18" alt="Hugging Face"/> <img src="https://cdn.simpleicons.org/nodedotjs/008FCC/00D9FF" width="18" height="18" alt="Node.js"/> <img src="https://cdn.simpleicons.org/express/008FCC/00D9FF" width="18" height="18" alt="Express.js"/> <img src="https://cdn.simpleicons.org/mongodb/008FCC/00D9FF" width="18" height="18" alt="MongoDB"/> <img src="https://cdn.simpleicons.org/socketdotio/008FCC/00D9FF" width="18" height="18" alt="Socket.IO"/> <img src="https://cdn.simpleicons.org/react/008FCC/00D9FF" width="18" height="18" alt="React"/> <img src="https://cdn.simpleicons.org/vite/008FCC/00D9FF" width="18" height="18" alt="Vite"/> <img src="https://cdn.simpleicons.org/jsonwebtokens/008FCC/00D9FF" width="18" height="18" alt="JWT"/> ![Zustand](https://img.shields.io/badge/Zustand-6C63FF?style=flat-square)
 
 - Real-time chat over Socket.IO — the backend assembles live menu, hours, and policy context into the LLM prompt
 - Deterministic REST shortcuts for common questions (menu, hours) bypass the LLM entirely for instant, quota-free replies
@@ -160,7 +160,7 @@ ROS2-based robotic perception system performing real-time multi-class object det
 **Perception:** YOLO11, OpenCV
 **Platform:** ROS2 node architecture, Linux
 
-<img src="https://cdn.simpleicons.org/ros/008FCC/00D9FF" width="18" height="18" alt="ROS2"/> <img src="https://cdn.simpleicons.org/opencv/008FCC/00D9FF" width="18" height="18" alt="OpenCV"/> <img src="https://cdn.simpleicons.org/python/008FCC/00D9FF" width="18" height="18" alt="Python"/> <img src="https://cdn.simpleicons.org/linux/008FCC/00D9FF" width="18" height="18" alt="Linux"/> `YOLO11`
+<img src="https://cdn.simpleicons.org/ros/008FCC/00D9FF" width="18" height="18" alt="ROS2"/> <img src="https://cdn.simpleicons.org/opencv/008FCC/00D9FF" width="18" height="18" alt="OpenCV"/> <img src="https://cdn.simpleicons.org/python/008FCC/00D9FF" width="18" height="18" alt="Python"/> <img src="https://cdn.simpleicons.org/linux/008FCC/00D9FF" width="18" height="18" alt="Linux"/> ![YOLO11](https://img.shields.io/badge/YOLO11-008FCC?style=flat-square)
 
 - Real-time detection across six object classes: Person, Chair, Table, Tray, Trolley, Bag
 - ROS2 node architecture for sensor and perception integration
@@ -176,7 +176,7 @@ Multimodal AI platform focused on generative AI and intelligent application deve
 
 **Focus:** LLM-powered applications, multimodal processing, agentic workflows
 
-<img src="https://cdn.simpleicons.org/python/008FCC/00D9FF" width="18" height="18" alt="Python"/> `LLMs` `Multimodal AI` `Agentic AI` `GenAI APIs`
+<img src="https://cdn.simpleicons.org/python/008FCC/00D9FF" width="18" height="18" alt="Python"/> ![LLMs](https://img.shields.io/badge/LLMs-6C63FF?style=flat-square) ![Multimodal AI](https://img.shields.io/badge/Multimodal_AI-6C63FF?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic_AI-6C63FF?style=flat-square) ![GenAI APIs](https://img.shields.io/badge/GenAI_APIs-6C63FF?style=flat-square)
 
 - LLM-powered application architecture
 - Multimodal AI processing and agentic workflows
@@ -196,13 +196,17 @@ Multimodal AI platform focused on generative AI and intelligent application deve
 
 <div align="center">
 
-`PLAN` → `DATA` → `MODEL` → `TRAIN` → `EVALUATE` → `INTEGRATE` → `DEPLOY` → `MONITOR`
+![PLAN](https://img.shields.io/badge/PLAN-008FCC?style=for-the-badge) → ![DATA](https://img.shields.io/badge/DATA-0F89D3?style=for-the-badge) → ![MODEL](https://img.shields.io/badge/MODEL-1F82DB?style=for-the-badge) → ![TRAIN](https://img.shields.io/badge/TRAIN-2E7CE2?style=for-the-badge) → ![EVALUATE](https://img.shields.io/badge/EVALUATE-3E76E9?style=for-the-badge) → ![INTEGRATE](https://img.shields.io/badge/INTEGRATE-4D70F0?style=for-the-badge) → ![DEPLOY](https://img.shields.io/badge/DEPLOY-5D69F8?style=for-the-badge) → ![MONITOR](https://img.shields.io/badge/MONITOR-6C63FF?style=for-the-badge)
 
 </div>
 
 *A general pattern I follow — not every project uses every stage.*
 
-`Data Sources` → `Preprocessing` → `ML / DL / LLM` → `Inference` → `API / Backend` → `Database` → `Frontend` → `Deployment / Monitoring`
+<div align="center">
+
+**Data Sources** → **Preprocessing** → **ML / DL / LLM** → **Inference** → **API / Backend** → **Database** → **Frontend** → **Deployment / Monitoring**
+
+</div>
 
 - Build reproducible systems, not isolated notebooks
 - Evaluate models with meaningful, task-appropriate metrics
@@ -232,10 +236,10 @@ Multimodal AI platform focused on generative AI and intelligent application deve
 ## Contact
 
 - **GitHub:** [github.com/Abuzarghaffari-22](https://github.com/Abuzarghaffari-22)
-- **LinkedIn:** `[ADD LINKEDIN URL]`
-- **Email:** `[ADD EMAIL]`
-- **Portfolio:** `[ADD PORTFOLIO URL]`
-- **CV:** `[ADD CV PDF LINK]`
+- **LinkedIn:** *(add your LinkedIn URL)*
+- **Email:** *(add your email)*
+- **Portfolio:** *(add your portfolio URL)*
+- **CV:** *(add link to CV PDF)*
 
 <br/>
 
