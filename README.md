@@ -227,18 +227,6 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
 
 <br/>
 
-<a name="approach"></a>
-### My Approach
-
-- Build reproducible systems, not isolated notebooks
-- Evaluate models with meaningful, task-appropriate metrics
-- Design inference for the target hardware and latency budget
-- Separate model logic from application infrastructure
-- Favor maintainable APIs and modular architecture over one-off scripts
-- Treat deployment and monitoring as part of AI engineering
-
-<br/>
-
 <a name="focus"></a>
 ### Current Focus
 
