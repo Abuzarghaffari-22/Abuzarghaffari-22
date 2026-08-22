@@ -225,16 +225,13 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 <a name="contact"></a>
 ### Contact
 
-<img src="https://cdn.simpleicons.org/github/008FCC" width="18" height="18" alt="GitHub" aria-hidden="true"/> **GitHub** — [github.com/Abuzarghaffari-22]
-(https://github.com/Abuzarghaffari-22)
+<img src="https://cdn.simpleicons.org/github/008FCC" width="18" height="18" alt="GitHub" aria-hidden="true"/> **GitHub** — [github.com/Abuzarghaffari-22](https://github.com/Abuzarghaffari-22)
 <br/>
-<img src="https://cdn.simpleicons.org/linkedin/008FCC?viewbox=auto" width="18" height="18" alt="LinkedIn"/> **LinkedIn** — [linkedin.com/in/abuzarghaffari](https://linkedin.com/in/abuzarghaffari)
+<img src="YOUR_LINKEDIN_PNG_URL" width="18" height="18" alt="LinkedIn"/> **LinkedIn** — [linkedin.com/in/abuzarghaffari](https://linkedin.com/in/abuzarghaffari)
 <br/>
-<img src="https://cdn.simpleicons.org/gmail/008FCC" width="18" height="18" alt="Email" aria-hidden="true"/> **Email** — [ag.businessofficial22@gmail.com]
-(mailto:ag.businessofficial22@gmail.com)
+<img src="https://cdn.simpleicons.org/gmail/008FCC" width="18" height="18" alt="Email" aria-hidden="true"/> **Email** — [ag.businessofficial22@gmail.com](mailto:ag.businessofficial22@gmail.com)
 <br/>
-<img src="https://cdn.simpleicons.org/googledrive/008FCC" width="18" height="18" alt="CV" aria-hidden="true"/> **CV** — [View Résumé]
-(https://drive.google.com/your-cv-link)
+<img src="https://cdn.simpleicons.org/googledrive/008FCC" width="18" height="18" alt="CV" aria-hidden="true"/> **CV** — [View Résumé](https://drive.google.com/your-cv-link)
 
 <br/>
 
