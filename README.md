@@ -234,15 +234,11 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 
 <a name="contact"></a>
 ### Contact
+<div align="center">
 
-<img src="https://cdn.simpleicons.org/github/008FCC" width="18" height="18" alt="" aria-hidden="true"/> **GitHub** — [github.com/Abuzarghaffari-22](https://github.com/Abuzarghaffari-22)
-<br/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" width="18" height="18" alt="LinkedIn"/> **LinkedIn** — [linkedin.com/in/abuzarghaffari](https://www.linkedin.com/in/abuzarghaffari/)
-<br/>
-<img src="https://cdn.simpleicons.org/gmail/008FCC" width="18" height="18" alt="" aria-hidden="true"/> **Email** — [ag.businessofficial22@gmail.com](mailto:ag.businessofficial22@gmail.com)
-<br/>
-<img src="https://cdn.simpleicons.org/googledrive/008FCC" width="18" height="18" alt="" aria-hidden="true"/> **CV** — [View Résumé](https://drive.google.com/your-cv-link)
+<img src="https://cdn.simpleicons.org/github/008FCC" width="18" height="18" alt="" aria-hidden="true"/> GitHub — github.com/Abuzarghaffari-22 <br/> <img src="https://cdn.simpleicons.org/linkedin/008FCC" width="18" height="18" alt="" aria-hidden="true"/> LinkedIn — linkedin.com/in/abuzarghaffari <br/> <img src="https://cdn.simpleicons.org/gmail/008FCC" width="18" height="18" alt="" aria-hidden="true"/> Email — ag.businessofficial22@gmail.com
 
+</div>  <img src="https://cdn.simpleicons.org/googledrive/008FCC" width="18" height="18" alt="" aria-hidden="true"/> **CV** — [View Résumé](YOUR_REAL_CV_LINK_HERE) <br/> **Portfolio** — [YOUR_PORTFOLIO_URL_HERE](YOUR_PORTFOLIO_URL_HERE) </div> -->
 <br/>
 
 <div align="center">
