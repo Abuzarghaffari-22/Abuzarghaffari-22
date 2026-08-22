@@ -121,6 +121,7 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
   <img src="https://cdn.simpleicons.org/nextdotjs/008FCC" width="28" height="28" alt="Next.js" style="vertical-align:middle;" />
   <span style="vertical-align:middle;">Next.js</span>
 </div>
+<br/>
 
 **Databases & Storage**<br/>
 <div>
@@ -143,6 +144,7 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
   <img src="https://cdn.simpleicons.org/opencv/008FCC" width="28" height="28" alt="OpenCV" style="vertical-align:middle;" />
   <span style="vertical-align:middle;">OpenCV</span>
 </div>
+<br/>
 
 **Tools & DevOps**<br/>
 <div>
