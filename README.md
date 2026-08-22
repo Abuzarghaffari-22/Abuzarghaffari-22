@@ -143,14 +143,6 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
 
 <br/>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img width="100%" src="assets/hero-light.svg" alt="Abuzar Ghaffari — AI Engineer" />
-</picture>
-<br/>
-
 <a name="projects"></a>
 ### Featured Projects
 
