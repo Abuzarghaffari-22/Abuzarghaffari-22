@@ -3,15 +3,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img width="100%" src="assets/hero-light.svg" alt="Abuzar Ghaffari — AI Engineer" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-dark.svg">
+  <img width="100%" src="assets/hero-dark.svg" alt="Abuzar Ghaffari — AI Engineer" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=00D9FF&center=true&vCenter=true&width=820&height=32&lines=Planning+intelligent+AI+systems;Building+end-to-end+pipelines;From+notebook+to+production">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=008FCC&center=true&vCenter=true&width=820&height=32&lines=Planning+intelligent+AI+systems;Building+end-to-end+pipelines;From+notebook+to+production">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=008FCC&center=true&vCenter=true&width=820&height=32&lines=Planning+intelligent+AI+systems;Building+end-to-end+pipelines;From+notebook+to+production" alt="Typing animation">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=00D9FF&center=true&vCenter=true&[...]
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=008FCC&center=true&vCenter=true[...]
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=008FCC&center=true&vCenter=true&width=820&height=32&lines=Planning+intellig[...]
 </picture>
 
 <sub>Adapts to light & dark — toggle under <b>GitHub Settings → Appearance</b></sub>
@@ -28,7 +28,7 @@
 
 <br/>
 
-<a href="#about">About</a> &nbsp;/&nbsp; <a href="#expertise">Expertise</a> &nbsp;/&nbsp; <a href="#stack">Stack</a> &nbsp;/&nbsp; <a href="#projects">Projects</a> &nbsp;/&nbsp; <a href="#approach">Approach</a> &nbsp;/&nbsp; <a href="#focus">Focus</a> &nbsp;/&nbsp; <a href="#contact">Contact</a>
+<a href="#about">About</a> &nbsp;/&nbsp; <a href="#expertise">Expertise</a> &nbsp;/&nbsp; <a href="#stack">Stack</a> &nbsp;/&nbsp; <a href="#projects">Projects</a> &nbsp;/&nbsp; <a href="#approach[...]
 
 </div>
 
@@ -45,9 +45,9 @@
 <a name="about"></a>
 ### About
 
-I design and build machine learning, computer vision, and generative AI systems — then carry them past the notebook stage into working software: FastAPI and Node.js backends, real-time data pipelines, and deployment infrastructure.
+I design and build machine learning, computer vision, and generative AI systems — then carry them past the notebook stage into working software: FastAPI and Node.js backends, real-time data pipe[...]
 
-My work spans the full lifecycle — system design, model development in **PyTorch** and **YOLO**, integration through **TypeScript / Next.js**, and LLM-based or agentic architectures on the generative AI side.
+My work spans the full lifecycle — system design, model development in **PyTorch** and **YOLO**, integration through **TypeScript / Next.js**, and LLM-based or agentic architectures on the gener[...]
 
 <br/>
 
@@ -68,31 +68,31 @@ My work spans the full lifecycle — system design, model development in **PyTor
 
 **Machine Learning**
 <br/>
-<img src="https://cdn.simpleicons.org/python/008FCC" width="20" height="20" alt="Python"/> Python&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pytorch/008FCC" width="20" height="20" alt="PyTorch"/> PyTorch&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opencv/008FCC" width="20" height="20" alt="OpenCV"/> OpenCV
+<img src="https://cdn.simpleicons.org/python/008FCC" width="20" height="20" alt="Python"/> Python&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pytorch/008FCC" width="20" height="20[...]
 
 **Generative AI & Agents**
 <br/>
-*RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agents&nbsp;&nbsp;·&nbsp;&nbsp;Agentic Workflows&nbsp;&nbsp;·&nbsp;&nbsp;Multimodal AI&nbsp;&nbsp;·&nbsp;&nbsp;LLM APIs*
+*RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agents&nbsp;&nbsp;·&nbsp;&nbsp;Agentic Workflows&nbsp;&nbsp;·&nbsp;&nbsp;Multimodal AI&nbsp;&nbsp;·&nbsp;&nbsp;LLM A[...]
 
 **Backend**
 <br/>
-<img src="https://cdn.simpleicons.org/fastapi/008FCC" width="20" height="20" alt="FastAPI"/> FastAPI&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nodedotjs/008FCC" width="20" height="20" alt="Node.js"/> Node.js&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/express/008FCC" width="20" height="20" alt="Express"/> Express
+<img src="https://cdn.simpleicons.org/fastapi/008FCC" width="20" height="20" alt="FastAPI"/> FastAPI&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nodedotjs/008FCC" width="20" heigh[...]
 
 **Frontend**
 <br/>
-<img src="https://cdn.simpleicons.org/typescript/008FCC" width="20" height="20" alt="TypeScript"/> TypeScript&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/008FCC" width="20" height="20" alt="JavaScript"/> JavaScript&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/react/008FCC" width="20" height="20" alt="React"/> React
+<img src="https://cdn.simpleicons.org/typescript/008FCC" width="20" height="20" alt="TypeScript"/> TypeScript&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/008FCC" width=[...]
 
 **Databases**
 <br/>
-<img src="https://cdn.simpleicons.org/mysql/008FCC" width="20" height="20" alt="MySQL"/> MySQL&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/008FCC" width="20" height="20" alt="PostgreSQL"/> PostgreSQL&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mongodb/008FCC" width="20" height="20" alt="MongoDB"/> MongoDB
+<img src="https://cdn.simpleicons.org/mysql/008FCC" width="20" height="20" alt="MySQL"/> MySQL&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/008FCC" width="20" height="20[...]
 
 **Robotics**
 <br/>
-<img src="https://cdn.simpleicons.org/ros/008FCC" width="20" height="20" alt="ROS2"/> ROS2&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opencv/008FCC" width="20" height="20" alt="OpenCV"/> OpenCV&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/python/008FCC" width="20" height="20" alt="Python"/> Python
+<img src="https://cdn.simpleicons.org/ros/008FCC" width="20" height="20" alt="ROS2"/> ROS2&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opencv/008FCC" width="20" height="20" alt="O[...]
 
 **Tools & DevOps**
 <br/>
-<img src="https://cdn.simpleicons.org/git/008FCC" width="20" height="20" alt="Git"/> Git&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/008FCC" width="20" height="20" alt="GitHub"/> GitHub&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker/008FCC" width="20" height="20" alt="Docker"/> Docker
+<img src="https://cdn.simpleicons.org/git/008FCC" width="20" height="20" alt="Git"/> Git&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/008FCC" width="20" height="20" alt="Git[...]
 
 <br/>
 
@@ -112,9 +112,9 @@ My work spans the full lifecycle — system design, model development in **PyTor
 
 `COMPUTER VISION` `OCR` `REAL TIME`
 
-**Perception:** YOLOv11, custom-trained &nbsp;·&nbsp; **OCR:** Tesseract, multi-variant voting &nbsp;·&nbsp; **Backend:** FastAPI, JWT-secured REST API &nbsp;·&nbsp; **Database:** MySQL, fuzzy reconciliation
+**Perception:** YOLOv11, custom-trained &nbsp;·&nbsp; **OCR:** Tesseract, multi-variant voting &nbsp;·&nbsp; **Backend:** FastAPI, JWT-secured REST API &nbsp;·&nbsp; **Database:** MySQL, fuzzy[...]
 
-<img src="https://cdn.simpleicons.org/fastapi/008FCC" width="18" height="18" alt="FastAPI"/> <img src="https://cdn.simpleicons.org/mysql/008FCC" width="18" height="18" alt="MySQL"/> <img src="https://cdn.simpleicons.org/python/008FCC" width="18" height="18" alt="Python"/>
+<img src="https://cdn.simpleicons.org/fastapi/008FCC" width="18" height="18" alt="FastAPI"/> <img src="https://cdn.simpleicons.org/mysql/008FCC" width="18" height="18" alt="MySQL"/> <img src="htt[...]
 
 - Custom-trained YOLOv11 model detects plates from a live webcam or IP camera feed
 - Multi-variant OCR voting pipeline improves read accuracy on Pakistani plates
@@ -130,9 +130,9 @@ My work spans the full lifecycle — system design, model development in **PyTor
 
 `GENERATIVE AI` `HEALTHCARE` `FULL STACK`
 
-**AI Layer:** Python + FastAPI, HuggingFace Inference API &nbsp;·&nbsp; **Backend:** Node.js + Express, MongoDB &nbsp;·&nbsp; **Frontend:** React 18 + Vite, TailwindCSS &nbsp;·&nbsp; **Auth:** JWT with refresh tokens
+**AI Layer:** Python + FastAPI, HuggingFace Inference API &nbsp;·&nbsp; **Backend:** Node.js + Express, MongoDB &nbsp;·&nbsp; **Frontend:** React 18 + Vite, TailwindCSS &nbsp;·&nbsp; **Auth:**[...]
 
-<img src="https://cdn.simpleicons.org/python/008FCC" width="18" height="18" alt="Python"/> <img src="https://cdn.simpleicons.org/fastapi/008FCC" width="18" height="18" alt="FastAPI"/> <img src="https://cdn.simpleicons.org/nodedotjs/008FCC" width="18" height="18" alt="Node.js"/> <img src="https://cdn.simpleicons.org/react/008FCC" width="18" height="18" alt="React"/> <img src="https://cdn.simpleicons.org/mongodb/008FCC" width="18" height="18" alt="MongoDB"/>
+<img src="https://cdn.simpleicons.org/python/008FCC" width="18" height="18" alt="Python"/> <img src="https://cdn.simpleicons.org/fastapi/008FCC" width="18" height="18" alt="FastAPI"/> <img src="h[...]
 
 - Conversational AI service classifies patient intent — booking, symptom triage, general Q&A — and routes accordingly
 - Three independent services (React frontend, Express API, Python AI service) composed via Docker Compose
@@ -148,9 +148,9 @@ My work spans the full lifecycle — system design, model development in **PyTor
 
 `LLM APPLICATIONS` `REAL TIME` `FULL STACK`
 
-**AI Layer:** Python + FastAPI, HuggingFace Inference API, prompt-injection guard &nbsp;·&nbsp; **Backend:** Node.js + Express, MongoDB, Socket.IO &nbsp;·&nbsp; **Frontend:** React 18 + Vite, Zod validation
+**AI Layer:** Python + FastAPI, HuggingFace Inference API, prompt-injection guard &nbsp;·&nbsp; **Backend:** Node.js + Express, MongoDB, Socket.IO &nbsp;·&nbsp; **Frontend:** React 18 + Vite, Z[...]
 
-<img src="https://cdn.simpleicons.org/python/008FCC" width="18" height="18" alt="Python"/> <img src="https://cdn.simpleicons.org/fastapi/008FCC" width="18" height="18" alt="FastAPI"/> <img src="https://cdn.simpleicons.org/nodedotjs/008FCC" width="18" height="18" alt="Node.js"/> <img src="https://cdn.simpleicons.org/react/008FCC" width="18" height="18" alt="React"/> <img src="https://cdn.simpleicons.org/mongodb/008FCC" width="18" height="18" alt="MongoDB"/>
+<img src="https://cdn.simpleicons.org/python/008FCC" width="18" height="18" alt="Python"/> <img src="https://cdn.simpleicons.org/fastapi/008FCC" width="18" height="18" alt="FastAPI"/> <img src="h[...]
 
 - Real-time chat over Socket.IO — the backend assembles live menu, hours, and policy context into the LLM prompt
 - Deterministic REST shortcuts for common questions (menu, hours) bypass the LLM entirely for instant, quota-free replies
@@ -168,7 +168,7 @@ My work spans the full lifecycle — system design, model development in **PyTor
 
 **Perception:** YOLO11, OpenCV &nbsp;·&nbsp; **Platform:** ROS2 node architecture, Linux
 
-<img src="https://cdn.simpleicons.org/ros/008FCC" width="18" height="18" alt="ROS2"/> <img src="https://cdn.simpleicons.org/opencv/008FCC" width="18" height="18" alt="OpenCV"/> <img src="https://cdn.simpleicons.org/python/008FCC" width="18" height="18" alt="Python"/>
+<img src="https://cdn.simpleicons.org/ros/008FCC" width="18" height="18" alt="ROS2"/> <img src="https://cdn.simpleicons.org/opencv/008FCC" width="18" height="18" alt="OpenCV"/> <img src="https://[...]
 
 - Real-time detection across six object classes: Person, Chair, Table, Tray, Trolley, Bag
 - ROS2 node architecture for sensor and perception integration
@@ -185,7 +185,7 @@ My work spans the full lifecycle — system design, model development in **PyTor
 
 **Focus:** LLM-powered applications, multimodal processing, agentic workflows
 
-<img src="https://cdn.simpleicons.org/python/008FCC" width="18" height="18" alt="Python"/> *LLMs&nbsp;&nbsp;·&nbsp;&nbsp;Multimodal AI&nbsp;&nbsp;·&nbsp;&nbsp;Agentic AI&nbsp;&nbsp;·&nbsp;&nbsp;Function Calling*
+<img src="https://cdn.simpleicons.org/python/008FCC" width="18" height="18" alt="Python"/> *LLMs&nbsp;&nbsp;·&nbsp;&nbsp;Multimodal AI&nbsp;&nbsp;·&nbsp;&nbsp;Agentic AI&nbsp;&nbsp;·&nbsp;&nbs[...]
 
 - LLM-powered application architecture, designed around swappable model providers
 - Multimodal processing and agentic workflows for multi-step task execution
