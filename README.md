@@ -3,8 +3,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-dark.svg">
   <img width="100%" src="assets/hero-light.svg" alt="Abuzar Ghaffari — AI Engineer" />
 </picture>
 
@@ -28,7 +28,7 @@
 
 <br/>
 
-<a href="#about">About</a> &nbsp;/&nbsp; <a href="#expertise">Expertise</a> &nbsp;/&nbsp; <a href="#stack">Stack</a> &nbsp;/&nbsp; <a href="#projects">Projects</a> &nbsp;/&nbsp; <a href="#approach">Ap[...]</a>
+<a href="#about">About</a> &nbsp;/&nbsp; <a href="#expertise">Expertise</a> &nbsp;/&nbsp; <a href="#stack">Stack</a> &nbsp;/&nbsp; <a href="#projects">Projects</a> &nbsp;/&nbsp; <a href="#approach">Approach</a>
 
 </div>
 
@@ -45,9 +45,9 @@
 <a name="about"></a>
 ### About
 
-I design and build machine learning, computer vision, and generative AI systems — then carry them past the notebook stage into working software: FastAPI and Node.js backends, real-time data pipeline[...] 
+I design and build machine learning, computer vision, and generative AI systems — then carry them past the notebook stage into working software: FastAPI and Node.js backends, real-time data pipelines, and scalable deployments.
 
-My work spans the full lifecycle — system design, model development in **PyTorch** and **YOLO**, integration through **TypeScript / Next.js**, and LLM-based or agentic architectures on the generativ[...] 
+My work spans the full lifecycle — system design, model development in **PyTorch** and **YOLO**, integration through **TypeScript / Next.js**, and LLM-based or agentic architectures for generative assistants.
 
 <br/>
 
@@ -55,10 +55,10 @@ My work spans the full lifecycle — system design, model development in **PyTor
 ### Core Expertise
 
 - **Computer Vision**: YOLO, OpenCV — real-time object detection, OCR, and visual perception pipelines
-- **Generative AI & LLMs**: RAG, prompt engineering — LLM-powered applications that reason over retrieved context
-- **Agentic AI**: multi-step workflows — agents that plan, reason, and execute tasks end-to-end
+- **Generative AI & LLMs**: Retrieval-Augmented Generation (RAG), prompt engineering, Hugging Face integrations
+- **Agentic AI**: multi-step workflows and agents that plan and execute tasks end-to-end
 - **Deep Learning**: PyTorch — model design, training, and evaluation
-- **Robotics (ROS2)**: YOLO-based perception for autonomous systems
+- **Robotics (ROS2)**: YOLO-based perception integrated with ROS2 nodes
 - **AI Deployment & Backend**: FastAPI, Node.js, WebSockets — serving models as real-time, production APIs
 
 <br/>
@@ -66,40 +66,106 @@ My work spans the full lifecycle — system design, model development in **PyTor
 <a name="stack"></a>
 ### Technology Stack
 
-**Machine Learning**
-<br/>
-<img src="https://cdn.simpleicons.org/python/008FCC" width="20" height="20" alt="Python"/> Python&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pytorch/008FCC" width="20" height="20" alt="PyTorch"/> PyTorch&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/yolo.svg" width="20" height="20" alt="YOLO"/> YOLO&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opencv/008FCC" width="20" height="20" alt="OpenCV"/> OpenCV
+Below are the primary technologies and tools I use. Icons load from simpleicons.org where supported; local assets are used for custom logos.
 
-**Generative AI & Agents**
-<br/>
-<img src="https://cdn.simpleicons.org/huggingface/008FCC" width="20" height="20" alt="Hugging Face"/> Hugging Face&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/transformers.svg" width="20" height="20" alt="Transformers"/> Transformers&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/llamaindex.svg" width="20" height="20" alt="LlamaIndex"/> RAG
+**Machine Learning & Research**<br/>
+<div>
+  <img src="https://cdn.simpleicons.org/python/008FCC" width="28" height="28" alt="Python logo" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">Python</span>
 
-**Backend**
-<br/>
-<img src="https://cdn.simpleicons.org/fastapi/008FCC" width="20" height="20" alt="FastAPI"/> FastAPI&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nodedotjs/008FCC" width="20" height="20" alt="Node.js"/> Node.js&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/express/008FCC" width="20" height="20" alt="Express"/> Express
+  <img src="https://cdn.simpleicons.org/pytorch/008FCC" width="28" height="28" alt="PyTorch logo" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">PyTorch</span>
 
-**Frontend**
-<br/>
-<img src="https://cdn.simpleicons.org/typescript/008FCC" width="20" height="20" alt="TypeScript"/> TypeScript&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/008FCC" width="20" height="20" alt="JavaScript"/> JavaScript&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nextdotjs/008FCC" width="20" height="20" alt="Next.js"/> Next.js
+  <img src="assets/yolo.svg" width="28" height="28" alt="YOLO logo" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">YOLO</span>
 
-**Databases**
-<br/>
-<img src="https://cdn.simpleicons.org/mysql/008FCC" width="20" height="20" alt="MySQL"/> MySQL&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/008FCC" width="20" height="20" alt="PostgreSQL"/> PostgreSQL&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mongodb/008FCC" width="20" height="20" alt="MongoDB"/> MongoDB
+  <img src="https://cdn.simpleicons.org/opencv/008FCC" width="28" height="28" alt="OpenCV logo" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;">OpenCV</span>
+</div>
 
-**Robotics**
-<br/>
-<img src="https://cdn.simpleicons.org/ros/008FCC" width="20" height="20" alt="ROS2"/> ROS2&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opencv/008FCC" width="20" height="20" alt="OpenCV"/> OpenCV
+**Generative AI & Agents**<br/>
+<div>
+  <img src="https://cdn.simpleicons.org/huggingface/008FCC" width="28" height="28" alt="Hugging Face logo" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">Hugging Face</span>
 
-**Tools & DevOps**
-<br/>
-<img src="https://cdn.simpleicons.org/git/008FCC" width="20" height="20" alt="Git"/> Git&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/008FCC" width="20" height="20" alt="GitHub"/> GitHub&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/docker/008FCC" width="20" height="20" alt="Docker"/> Docker&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/kubernetes/008FCC" width="20" height="20" alt="Kubernetes"/> Kubernetes&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/githubactions/008FCC" width="20" height="20" alt="GitHub Actions"/> CI/CD
+  <img src="assets/transformers.svg" width="28" height="28" alt="Transformers logo" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">Transformers</span>
+
+  <img src="assets/llamaindex.svg" width="28" height="28" alt="LlamaIndex logo" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">RAG / LlamaIndex</span>
+
+  <img src="assets/gemini.svg" width="28" height="28" alt="Gemini logo" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;">Model providers</span>
+</div>
+
+**Backend & APIs**<br/>
+<div>
+  <img src="https://cdn.simpleicons.org/fastapi/008FCC" width="28" height="28" alt="FastAPI" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">FastAPI</span>
+
+  <img src="https://cdn.simpleicons.org/nodedotjs/008FCC" width="28" height="28" alt="Node.js" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">Node.js</span>
+
+  <img src="https://cdn.simpleicons.org/express/008FCC" width="28" height="28" alt="Express" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;">Express</span>
+</div>
+
+**Frontend**<br/>
+<div>
+  <img src="https://cdn.simpleicons.org/typescript/008FCC" width="28" height="28" alt="TypeScript" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">TypeScript</span>
+
+  <img src="https://cdn.simpleicons.org/javascript/008FCC" width="28" height="28" alt="JavaScript" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">JavaScript</span>
+
+  <img src="https://cdn.simpleicons.org/nextdotjs/008FCC" width="28" height="28" alt="Next.js" style="vertical-align:middle;" />
+  <span style="vertical-align:middle;">Next.js</span>
+</div>
+
+**Databases & Storage**<br/>
+<div>
+  <img src="https://cdn.simpleicons.org/mysql/008FCC" width="28" height="28" alt="MySQL" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">MySQL</span>
+
+  <img src="https://cdn.simpleicons.org/postgresql/008FCC" width="28" height="28" alt="PostgreSQL" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">PostgreSQL</span>
+
+  <img src="https://cdn.simpleicons.org/mongodb/008FCC" width="28" height="28" alt="MongoDB" style="vertical-align:middle;" />
+  <span style="vertical-align:middle;">MongoDB</span>
+</div>
+
+**Robotics & Edge**<br/>
+<div>
+  <img src="https://cdn.simpleicons.org/ros/008FCC" width="28" height="28" alt="ROS2" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">ROS2</span>
+
+  <img src="https://cdn.simpleicons.org/opencv/008FCC" width="28" height="28" alt="OpenCV" style="vertical-align:middle;" />
+  <span style="vertical-align:middle;">OpenCV</span>
+</div>
+
+**Tools & DevOps**<br/>
+<div>
+  <img src="https://cdn.simpleicons.org/git/008FCC" width="28" height="28" alt="Git" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">Git</span>
+
+  <img src="https://cdn.simpleicons.org/github/008FCC" width="28" height="28" alt="GitHub" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">GitHub</span>
+
+  <img src="https://cdn.simpleicons.org/docker/008FCC" width="28" height="28" alt="Docker" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">Docker</span>
+
+  <img src="https://cdn.simpleicons.org/kubernetes/008FCC" width="28" height="28" alt="Kubernetes" style="vertical-align:middle;margin-right:8px;" />
+  <span style="vertical-align:middle;margin-right:20px;">Kubernetes</span>
+
+  <img src="https://cdn.simpleicons.org/githubactions/008FCC" width="28" height="28" alt="GitHub Actions" style="vertical-align:middle;" />
+  <span style="vertical-align:middle;">CI/CD</span>
+</div>
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:6C63FF,100:00D9FF&height=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:008FCC,50:5B5BD6,100:008FCC&height=2">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:008FCC,50:5B5BD6,100:008FCC&height=2" alt="" />
+  <!-- use the adaptive pipeline SVG: it contains inverted mapping so dark shows the light artwork -->
+  <img width="100%" src="assets/pipeline-adaptive.svg" alt="Plan, Data, Model, Train, Evaluate, Integrate, Deploy, Monitor" />
 </picture>
 
 <br/>
@@ -130,26 +196,26 @@ My work spans the full lifecycle — system design, model development in **PyTor
 
 **AI Layer:** Python + FastAPI, HuggingFace Inference API · **Backend:** Node.js + Express, MongoDB · **Frontend:** React 18 + Vite, TailwindCSS
 
-- Conversational AI service classifies patient intent — booking, symptom triage, general Q&A — and routes accordingly
-- Three independent services (React frontend, Express API, Python AI service) composed via Docker Compose
-- Full appointment lifecycle for patients — book, view, cancel — with a dedicated oversight dashboard for admins
-- JWT auth with refresh tokens, rate limiting, and input validation across every layer
+- Conversational AI service classifies patient intent and routes requests accordingly
+- Three independent services (React frontend, Express API, Python AI service) composed with Docker Compose
+- Full appointment lifecycle with admin oversight dashboard
+- JWT auth with refresh tokens, rate limiting, and input validation
 
 **→ [View Repository](https://github.com/Abuzarghaffari-22/Medical_Website_With_Chatbot)**
 
 <br/>
 
 #### Bella Cucina — AI Restaurant Chatbot
-*Full-stack conversational ordering and reservations assistant, built as three independent services communicating over REST and WebSockets.*
+*Full-stack conversational ordering and reservations assistant.*
 
 <img src="assets/chips/llm-apps.svg" width="140" height="20" alt="LLM Applications" style="vertical-align:middle;margin-right:6px;"/> <img src="assets/chips/real-time.svg" width="80" height="20" alt="Real-time" style="vertical-align:middle;"/>
 
 **AI Layer:** Python + FastAPI, HuggingFace Inference API, prompt-injection guard · **Backend:** Node.js + Express, MongoDB, Socket.IO · **Frontend:** React 18 + Vite
 
-- Real-time chat over Socket.IO — the backend assembles live menu, hours, and policy context into the LLM prompt
-- Deterministic REST shortcuts for common questions (menu, hours) bypass the LLM entirely for instant, quota-free replies
-- Prompt-injection guard filters off-topic and jailbreak attempts before they reach the model
-- JWT-protected admin panel for staff to manage reservations and credentials
+- Real-time chat over Socket.IO with assembled context for the LLM
+- Deterministic REST shortcuts for common queries to reduce model calls
+- Prompt-injection guard to filter unsafe inputs
+- JWT-protected admin panel for staff management
 
 **→ [View Repository](https://github.com/Abuzarghaffari-22/Restaurant_Chatbot)**
 
@@ -188,18 +254,12 @@ My work spans the full lifecycle — system design, model development in **PyTor
 <a name="approach"></a>
 ### My Approach
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.svg">
-  <img width="100%" src="assets/pipeline-light.svg" alt="Plan, Data, Model, Train, Evaluate, Integrate, Deploy, Monitor"/>
-</picture>
-
 - Build reproducible systems, not isolated notebooks
 - Evaluate models with meaningful, task-appropriate metrics
 - Design inference for the target hardware and latency budget
 - Separate model logic from application infrastructure
 - Favor maintainable APIs and modular architecture over one-off scripts
-- Treat deployment and monitoring as part of AI engineering, not an afterthought
+- Treat deployment and monitoring as part of AI engineering
 
 <br/>
 
@@ -240,11 +300,5 @@ My work spans the full lifecycle — system design, model development in **PyTor
 </div>
 
 <br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:6C63FF,100:00D9FF&height=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:008FCC,50:5B5BD6,100:008FCC&height=2">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:008FCC,50:5B5BD6,100:008FCC&height=2" alt="" />
-</picture>
 
 <p align="center"><a href="#top">↑ Back to top</a></p>
