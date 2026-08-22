@@ -110,7 +110,7 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 #### AI-Powered ANPR System
 *Final Year Project (BSCS) — real-time Automatic Number Plate Recognition built around Pakistani road and plate conditions, connecting live camera detections to a vehicle registry.*
 
-`COMPUTER VISION` `OCR` `REAL TIME`
+**COMPUTER VISION** · **OCR** · **REAL TIME**
 
 **Perception:** YOLOv11, custom-trained · **OCR:** Tesseract, multi-variant voting · **Backend:** FastAPI, JWT-secured REST API · **Database:** MySQL, fuzzy-matching
 
@@ -126,7 +126,7 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 #### MediCare Clinic — AI Medical Assistant Platform
 *Full-stack healthcare platform pairing an AI symptom-triage assistant with everyday clinic operations.*
 
-`GENERATIVE AI` `HEALTHCARE` `FULL STACK`
+**GENERATIVE AI** · **HEALTHCARE** · **FULL STACK**
 
 **AI Layer:** Python + FastAPI, HuggingFace Inference API · **Backend:** Node.js + Express, MongoDB · **Frontend:** React 18 + Vite, TailwindCSS
 
@@ -142,7 +142,7 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 #### Bella Cucina — AI Restaurant Chatbot
 *Full-stack conversational ordering and reservations assistant, built as three independent services communicating over REST and WebSockets.*
 
-`LLM APPLICATIONS` `REAL TIME` `FULL STACK`
+**LLM APPLICATIONS** · **REAL TIME** · **FULL STACK**
 
 **AI Layer:** Python + FastAPI, HuggingFace Inference API, prompt-injection guard · **Backend:** Node.js + Express, MongoDB, Socket.IO · **Frontend:** React 18 + Vite
 
@@ -158,7 +158,7 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 #### DoDo Bot
 *ROS2-based robotic perception system performing real-time multi-class object detection for autonomous navigation and environment awareness.*
 
-`ROBOTICS` `COMPUTER VISION` `ROS2`
+**ROBOTICS** · **COMPUTER VISION** · **ROS2**
 
 **Perception:** YOLO11, OpenCV · **Platform:** ROS2 node architecture, Linux
 
@@ -173,7 +173,7 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 #### NovaMind
 *Multimodal AI platform focused on generative AI and intelligent application development.*
 
-`GENERATIVE AI` `AGENTIC AI` `MULTIMODAL`
+**GENERATIVE AI** · **AGENTIC AI** · **MULTIMODAL**
 
 **Focus:** LLM-powered applications, multimodal processing, agentic workflows
 
