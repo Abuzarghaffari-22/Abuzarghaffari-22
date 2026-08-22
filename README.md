@@ -174,7 +174,7 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
 - Full appointment lifecycle with admin oversight dashboard
 - JWT auth with refresh tokens, rate limiting, and input validation
 
-**→ [View Repository](https://github.com/Abuzarghaffari-22/Medical_Website_With_Chatbot)**n
+**→ [View Repository](https://github.com/Abuzarghaffari-22/Medical_Website_With_Chatbot)**
 
 <br/>
 
@@ -220,7 +220,7 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
 - Multimodal processing and agentic workflows for multi-step task execution
 - API-driven integration layer for adding generative features to existing products
 
-*→ Private repository — architecture and demo available on request*
+**→ [View Repository](https://github.com/Abuzarghaffari-22/novamind)**
 
 <br/>
 
