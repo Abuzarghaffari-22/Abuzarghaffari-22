@@ -227,7 +227,7 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 
 <img src="https://cdn.simpleicons.org/github/008FCC" width="18" height="18" alt="GitHub" aria-hidden="true"/> **GitHub** — [github.com/Abuzarghaffari-22](https://github.com/Abuzarghaffari-22)
 <br/>
-<img src="https://cdn.simpleicons.org/linkedin/008FCC" width="18" height="18" alt="LinkedIn" aria-hidden="true"/> **LinkedIn** — [linkedin.com/in/abuzarghaffari](https://linkedin.com/in/abuzarghaffari)
+<img src="assets/linkedin.svg" width="18" height="18" alt="LinkedIn" aria-hidden="true"/> **LinkedIn** — [linkedin.com/in/abuzarghaffari](https://linkedin.com/in/abuzarghaffari)
 <br/>
 <img src="https://cdn.simpleicons.org/gmail/008FCC" width="18" height="18" alt="Email" aria-hidden="true"/> **Email** — [ag.businessofficial22@gmail.com](mailto:ag.businessofficial22@gmail.com)
 <br/>
