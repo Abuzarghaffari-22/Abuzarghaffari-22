@@ -9,9 +9,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=00D9FF&center=true&vCenter=true&lines=Planning+intelligent+AI+systems">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=008FCC&center=true&vCenter=true&lines=Planning+intelligent+AI+systems">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=008FCC&center=true&vCenter=true&width=820&height=32&lines=Planning+intelligent+AI+systems" alt="Planning intelligent AI systems" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=00D9FF&center=true&vCenter=true&lines=Planning+intelligent+systems;Building+reliable+ML+products">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=008FCC&center=true&vCenter=true&lines=Planning+intelligent+systems;Building+reliable+ML+products">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=008FCC&center=true&vCenter=true&width=820&height=32&lines=Planning+intelligent+systems;Building+reliable+ML+products"/>
 </picture>
 
 <sub>Adapts to light & dark — toggle under <b>GitHub Settings → Appearance</b></sub>
@@ -45,9 +45,9 @@
 <a name="about"></a>
 ### About
 
-I design and build machine learning, computer vision, and generative AI systems — then carry them past the notebook stage into working software: FastAPI and Node.js backends, real-time data pipelines, and production-ready APIs.
+I design and build machine learning, computer vision, and generative AI systems — then carry them past the notebook stage into working software: FastAPI and Node.js backends, real-time data pipelines and deployable services.
 
-My work spans the full lifecycle — system design, model development in **PyTorch** and **YOLO**, integration through **TypeScript / Next.js**, and LLM-based or agentic architectures on the generative side.
+My work spans the full lifecycle — system design, model development in **PyTorch** and **YOLO**, integration through **TypeScript / Next.js**, and LLM-based or agentic architectures on the generative stack.
 
 <br/>
 
@@ -227,7 +227,7 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 
 <img src="https://cdn.simpleicons.org/github/008FCC" width="18" height="18" alt="GitHub" aria-hidden="true"/> **GitHub** — [github.com/Abuzarghaffari-22](https://github.com/Abuzarghaffari-22)
 <br/>
-<img src="YOUR_LINKEDIN_PNG_URL" width="18" height="18" alt="LinkedIn"/> **LinkedIn** — [linkedin.com/in/abuzarghaffari](https://linkedin.com/in/abuzarghaffari)
+<img src="https://cdn.simpleicons.org/linkedin/008FCC" width="18" height="18" alt="LinkedIn" aria-hidden="true"/> **LinkedIn** — [linkedin.com/in/abuzarghaffari](https://linkedin.com/in/abuzarghaffari)
 <br/>
 <img src="https://cdn.simpleicons.org/gmail/008FCC" width="18" height="18" alt="Email" aria-hidden="true"/> **Email** — [ag.businessofficial22@gmail.com](mailto:ag.businessofficial22@gmail.com)
 <br/>
