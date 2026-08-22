@@ -21,7 +21,7 @@
 
 I design and build machine learning, computer vision, and generative AI systems — then take them past the notebook stage into working software: FastAPI and Node.js backends, real-time data pipelines, and deployable APIs.
 
-My toolset spans PyTorch and YOLO for model work, OpenCV for vision pipelines, and TypeScript/Next.js on the application side, with LLM-based and agentic architectures for generative AI applications. The throughline is consistent: models that are evaluated, integrated, and shipped as part of a real system, not isolated experiments.
+My toolset spans PyTorch and YOLO for model work, OpenCV for vision pipelines, and TypeScript/Next.js on the application side, with LLM-based and agentic architectures on the generative side. The throughline stays the same across all of it: models that are evaluated, integrated, and shipped as part of a real system, not isolated experiments.
 
 <br/>
 
@@ -197,14 +197,15 @@ AI conversational assistant built around retrieval-augmented generation and natu
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=Abuzarghaffari-22&show_icons=true&include_all_commits=false&count_private=false&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics for Abuzarghaffari-22" />
-<img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abuzarghaffari-22&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages" />
+<img width="100%" src="https://github-readme-stats.shion.dev/api?username=Abuzarghaffari-22&show_icons=true&include_all_commits=false&count_private=false&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics for Abuzarghaffari-22" />
+
+<img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abuzarghaffari-22&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages" />
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=Abuzarghaffari-22&theme=tokyonight&hide_border=false&border=30363D&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub contribution streak" />
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abuzarghaffari-22&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="GitHub contribution activity graph" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abuzarghaffari-22&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=-1" alt="GitHub achievement trophies" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Abuzarghaffari-22&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=-1" alt="GitHub achievement trophies" />
 
 </div>
 
