@@ -3,8 +3,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-light.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
   <img width="100%" src="assets/hero-light.svg" alt="Abuzar Ghaffari — AI Engineer" />
 </picture>
 
@@ -164,9 +164,9 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-light.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-dark.svg">
-  <img width="100%" src="assets/pipeline-dark.svg" alt="Plan, Data, Model, Train, Evaluate, Integrate, Deploy, Monitor" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.svg">
+  <img width="100%" src="assets/pipeline-light.svg" alt="Plan, Data, Model, Train, Evaluate, Integrate, Deploy, Monitor" />
 </picture>
 
 <br/>
