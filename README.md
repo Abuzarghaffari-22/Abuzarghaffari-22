@@ -108,7 +108,7 @@ Real-time Automatic Number Plate Recognition system with a computer vision detec
 - FastAPI backend with WebSocket streaming for live results
 - MySQL-backed storage with a Next.js monitoring frontend
 
-**Repository:** `[Repository link]`
+<!-- Add once the repo is public: **Repository:** [github.com/Abuzarghaffari-22/anpr-system](https://github.com/Abuzarghaffari-22/REPO_NAME) -->
 
 <br/>
 
@@ -122,7 +122,7 @@ ROS2-based robotic perception system performing real-time multi-class object det
 - ROS2 node architecture for sensor and perception integration
 - YOLO11-based inference pipeline, built and tested on Linux
 
-**Repository:** `[Repository link]`
+<!-- Add once the repo is public: **Repository:** [github.com/Abuzarghaffari-22/dodo-bot](https://github.com/Abuzarghaffari-22/REPO_NAME) -->
 
 <br/>
 
@@ -136,7 +136,7 @@ Multimodal AI platform focused on generative AI and intelligent application deve
 - Multimodal AI processing and agentic workflows
 - API-driven integration for generative AI features
 
-**Repository:** `[Repository link]`
+<!-- Add once the repo is public: **Repository:** [github.com/Abuzarghaffari-22/novamind](https://github.com/Abuzarghaffari-22/REPO_NAME) -->
 
 <br/>
 
@@ -150,7 +150,7 @@ AI conversational assistant built around retrieval-augmented generation and natu
 - RAG-based knowledge retrieval
 - FastAPI backend for serving model responses
 
-**Repository:** `[Repository link]`
+<!-- Add once the repo is public: **Repository:** [github.com/Abuzarghaffari-22/medassist](https://github.com/Abuzarghaffari-22/REPO_NAME) -->
 
 <br/>
 
@@ -231,10 +231,12 @@ AI conversational assistant built around retrieval-augmented generation and natu
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](YOUR_LINKEDIN_URL)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/Abuzarghaffari-22)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge)](YOUR_PORTFOLIO_URL)
+<!-- Uncomment each line below once you have the real URL — do not publish with placeholder text visible:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/your-handle)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge)](https://your-portfolio.com)
+-->
 
 <br/>
 
