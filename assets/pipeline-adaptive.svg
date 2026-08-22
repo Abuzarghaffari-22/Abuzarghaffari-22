@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="Pipeline (adaptive)">
+  <title>Pipeline — adaptive (inverted mapping)</title>
+  <desc>Adaptive pipeline SVG that shows the light artwork when the system is in dark mode, and the dark artwork when the system is in light mode.</desc>
+  <style><![CDATA[
+    .light-variant { display: none; }
+    .dark-variant { display: inline; }
+    /* Inverted mapping: when user prefers dark, show the light variant */
+    @media (prefers-color-scheme: dark) {
+      .light-variant { display: inline; }
+      .dark-variant { display: none; }
+    }
+    /* When user prefers light, show the dark variant */
+    @media (prefers-color-scheme: light) {
+      .light-variant { display: none; }
+      .dark-variant { display: inline; }
+    }
+  ]]></style>
+
+  <!-- DARK VARIANT (designed for light backgrounds) -->
+  <g class="dark-variant" transform="translate(0,0)">
+    <rect width="1200" height="120" fill="none" />
+    <path d="M40 60 H1160" stroke="#2B4B6F" stroke-width="6" stroke-linecap="round" opacity="0.95" />
+    <g fill="#0A2540" font-family="Inter, Arial, sans-serif" font-weight="600" font-size="12" text-anchor="middle">
+      <g transform="translate(80,60)"><circle r="20" fill="transparent" stroke="#005A86" stroke-width="3"/><text y="5" fill="#0A2540">Plan</text></g>
+      <g transform="translate(240,60)"><circle r="20" fill="transparent" stroke="#3B3A99" stroke-width="3"/><text y="5" fill="#0A2540">Data</text></g>
+      <g transform="translate(400,60)"><circle r="20" fill="transparent" stroke="#005A86" stroke-width="3"/><text y="5" fill="#0A2540">Model</text></g>
+      <g transform="translate(560,60)"><circle r="20" fill="transparent" stroke="#3B3A99" stroke-width="3"/><text y="5" fill="#0A2540">Train</text></g>
+      <g transform="translate(720,60)"><circle r="20" fill="transparent" stroke="#005A86" stroke-width="3"/><text y="5" fill="#0A2540">Evaluate</text></g>
+      <g transform="translate(880,60)"><circle r="20" fill="transparent" stroke="#3B3A99" stroke-width="3"/><text y="5" fill="#0A2540">Integrate</text></g>
+      <g transform="translate(1040,60)"><circle r="20" fill="transparent" stroke="#005A86" stroke-width="3"/><text y="5" fill="#0A2540">Deploy</text></g>
+    </g>
+  </g>
+
+  <!-- LIGHT VARIANT (designed for dark backgrounds) -->
+  <g class="light-variant" transform="translate(0,0)">
+    <rect width="1200" height="120" fill="none" />
+    <path d="M40 60 H1160" stroke="#CDEFFF" stroke-width="6" stroke-linecap="round" opacity="0.95" />
+    <g fill="#E6FBFF" font-family="Inter, Arial, sans-serif" font-weight="600" font-size="12" text-anchor="middle">
+      <g transform="translate(80,60)"><circle r="20" fill="transparent" stroke="#00D9FF" stroke-width="3"/><text y="5" fill="#E6FBFF">Plan</text></g>
+      <g transform="translate(240,60)"><circle r="20" fill="transparent" stroke="#6C63FF" stroke-width="3"/><text y="5" fill="#E6FBFF">Data</text></g>
+      <g transform="translate(400,60)"><circle r="20" fill="transparent" stroke="#00D9FF" stroke-width="3"/><text y="5" fill="#E6FBFF">Model</text></g>
+      <g transform="translate(560,60)"><circle r="20" fill="transparent" stroke="#6C63FF" stroke-width="3"/><text y="5" fill="#E6FBFF">Train</text></g>
+      <g transform="translate(720,60)"><circle r="20" fill="transparent" stroke="#00D9FF" stroke-width="3"/><text y="5" fill="#E6FBFF">Evaluate</text></g>
+      <g transform="translate(880,60)"><circle r="20" fill="transparent" stroke="#6C63FF" stroke-width="3"/><text y="5" fill="#E6FBFF">Integrate</text></g>
+      <g transform="translate(1040,60)"><circle r="20" fill="transparent" stroke="#00D9FF" stroke-width="3"/><text y="5" fill="#E6FBFF">Deploy</text></g>
+    </g>
+  </g>
+
+</svg>
