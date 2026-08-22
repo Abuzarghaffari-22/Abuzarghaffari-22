@@ -94,8 +94,6 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
   <img src="assets/llamaindex.svg" width="28" height="28" alt="LlamaIndex logo" style="vertical-align:middle;margin-right:8px;" />
   <span style="vertical-align:middle;margin-right:20px;">RAG / LlamaIndex</span>
 
-  <img src="assets/gemini.svg" width="28" height="28" alt="Gemini logo" style="vertical-align:middle;margin-right:8px;" />
-  <span style="vertical-align:middle;">Model providers</span>
 </div>
 
 **Backend & APIs**<br/>
