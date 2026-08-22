@@ -82,6 +82,7 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
   <img src="https://cdn.simpleicons.org/opencv/008FCC" width="28" height="28" alt="OpenCV logo" style="vertical-align:middle;margin-right:8px;" />
   <span style="vertical-align:middle;">OpenCV</span>
 </div>
+<br/>
 
 **Generative AI & Agents**<br/>
 <div>
@@ -93,8 +94,8 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
 
   <img src="assets/llamaindex.svg" width="28" height="28" alt="LlamaIndex logo" style="vertical-align:middle;margin-right:8px;" />  
   <span style="vertical-align:middle;margin-right:20px;">RAG / LlamaIndex</span>
-
 </div>
+<br/>
 
 **Backend & APIs**<br/>
 <div>
@@ -107,6 +108,7 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
   <img src="https://cdn.simpleicons.org/express/008FCC" width="28" height="28" alt="Express" style="vertical-align:middle;margin-right:8px;" />
   <span style="vertical-align:middle;">Express</span>
 </div>
+<br/>
 
 **Frontend**<br/>
 <div>
@@ -131,6 +133,7 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
   <img src="https://cdn.simpleicons.org/mongodb/008FCC" width="28" height="28" alt="MongoDB" style="vertical-align:middle;" />
   <span style="vertical-align:middle;">MongoDB</span>
 </div>
+<br/>
 
 **Robotics & Edge**<br/>
 <div>
