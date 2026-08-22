@@ -1,8 +1,14 @@
+<a name="top"></a>
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B2A41&height=190&section=header&text=Abuzar%20Ghaffari&fontSize=44&fontColor=FFFFFF&fontAlignY=32&desc=AI%20Engineer%20%7C%20Machine%20Learning%2C%20Computer%20Vision%2C%20Generative%20AI%2C%20Agentic%20AI&descAlignY=52&descSize=14&descColor=8B949E&animation=fadeIn" alt="Header banner — Abuzar Ghaffari, AI Engineer" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3200&pause=1300&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=AI+Engineer;Machine+Learning+%26+Deep+Learning;Computer+Vision+%26+Real-Time+Systems;Generative+AI+%26+Agentic+Systems;Building+Deployable+AI+Systems" alt="Typing animation cycling through AI engineering focus areas" />
+
+<br/><br/>
+
+**[About](#about)** &nbsp;·&nbsp; **[Stack](#technology-stack)** &nbsp;·&nbsp; **[Projects](#featured-projects)** &nbsp;·&nbsp; **[Approach](#ai-engineering-workflow)** &nbsp;·&nbsp; **[Contact](#contact)**
 
 <br/>
 
@@ -193,28 +199,6 @@ AI conversational assistant built around retrieval-augmented generation and natu
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-stats.shion.dev/api?username=Abuzarghaffari-22&show_icons=true&include_all_commits=false&count_private=false&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics for Abuzarghaffari-22" />
-
-<img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abuzarghaffari-22&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages" />
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=Abuzarghaffari-22&theme=tokyonight&hide_border=false&border=30363D&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub contribution streak" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abuzarghaffari-22&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="GitHub contribution activity graph" />
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Abuzarghaffari-22&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=-1" alt="GitHub achievement trophies" />
-
-</div>
-
-> All cards above pull live from the GitHub API — nothing here is manually entered. Swap `theme=tokyonight` for any [github-readme-stats theme](https://github.com/anuraghazra/github-readme-stats#themes) to match your taste.
-
-<br/>
-
----
-
 ## Current Focus
 
 - Agentic AI systems and multi-step LLM workflows
@@ -222,6 +206,31 @@ AI conversational assistant built around retrieval-augmented generation and natu
 - Real-time computer vision inference pipelines
 - AI deployment and MLOps practices for production systems
 - ROS2-based robotics perception
+
+<br/>
+
+---
+
+<details>
+<summary><strong>GitHub Activity</strong> — live stats, pulled directly from the GitHub API</summary>
+
+<br/>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-stats.shion.dev/api?username=Abuzarghaffari-22&show_icons=true&include_all_commits=false&count_private=false&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics for Abuzarghaffari-22" />
+
+<img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abuzarghaffari-22&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abuzarghaffari-22&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="GitHub contribution activity graph" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Abuzarghaffari-22&color=58A6FF&style=flat-square&label=Profile+Views" alt="Live profile view counter" />
+
+</div>
+
+</details>
 
 <br/>
 
@@ -238,10 +247,10 @@ AI conversational assistant built around retrieval-augmented generation and natu
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge)](https://your-portfolio.com)
 -->
 
+</div>
+
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Abuzarghaffari-22&color=58A6FF&style=flat-square&label=Profile+Views" alt="Live profile view counter" />
-
-</div>
+<p align="center"><a href="#top">↑ Back to top</a></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1B2A41,100:0D1117&height=100&section=footer" alt="" />
