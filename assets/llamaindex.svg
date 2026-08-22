@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28" role="img" aria-label="LlamaIndex logo">
+  <title>LlamaIndex</title>
+  <desc>LlamaIndex / RAG local icon</desc>
+  <rect width="28" height="28" rx="4" fill="none"/>
+  <g stroke="#008FCC" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M7 18c2-4 8-4 12 0" />
+    <path d="M9 12c1-2 3-3 6-3" />
+  </g>
+  <text x="14" y="20.5" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="8" fill="#008FCC">LI</text>
+</svg>
