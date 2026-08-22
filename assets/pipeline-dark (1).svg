@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg viewBox="0 0 1200 170" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" aria-label="Plan, Data, Model, Train, Evaluate, Integrate, Deploy, Monitor">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;600&amp;display=swap');
+      .lbl { font-family: 'JetBrains Mono', monospace; font-weight: 600; }
+      .num { font-family: 'JetBrains Mono', monospace; font-weight: 500; }
+    </style>
+    <linearGradient id="trackGrad" gradientUnits="userSpaceOnUse" x1="90" y1="0" x2="1110" y2="0">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0.55"/>
+      <stop offset="50%" stop-color="#6C63FF" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0.55"/>
+    </linearGradient>
+    <filter id="nodeGlowD" x="-150%" y="-150%" width="400%" height="400%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <path id="trackPathD" d="M90,70 L1110,70"/>
+  </defs>
+
+  <line x1="90" y1="70" x2="1110" y2="70" stroke="url(#trackGrad)" stroke-width="1.5"/>
+
+  <circle r="5" fill="#00D9FF">
+    <animateMotion dur="6s" repeatCount="indefinite">
+      <mpath href="#trackPathD" xlink:href="#trackPathD"/>
+    </animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.92;1" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <g class="lbl" font-size="12.5" letter-spacing="1.5" fill="#F1F5F9" text-anchor="middle">
+    <circle cx="90" cy="70" r="10" fill="#00D9FF" opacity="0.18" filter="url(#nodeGlowD)"><animate attributeName="opacity" values="0.10;0.30;0.10" dur="3s" begin="0s" repeatCount="indefinite"/></circle>
+    <circle cx="90" cy="70" r="5" fill="#151F2B" stroke="#00D9FF" stroke-width="2"/>
+    <text class="num" x="90" y="45" font-size="10.5" fill="#A7B3C2">01</text>
+    <text x="90" y="105">PLAN</text>
+
+    <circle cx="236" cy="70" r="10" fill="#1FCBEF" opacity="0.18" filter="url(#nodeGlowD)"><animate attributeName="opacity" values="0.10;0.30;0.10" dur="3s" begin="0.4s" repeatCount="indefinite"/></circle>
+    <circle cx="236" cy="70" r="5" fill="#151F2B" stroke="#1FCBEF" stroke-width="2"/>
+    <text class="num" x="236" y="45" font-size="10.5" fill="#A7B3C2">02</text>
+    <text x="236" y="105">DATA</text>
+
+    <circle cx="381" cy="70" r="10" fill="#3EBEE0" opacity="0.18" filter="url(#nodeGlowD)"><animate attributeName="opacity" values="0.10;0.30;0.10" dur="3s" begin="0.8s" repeatCount="indefinite"/></circle>
+    <circle cx="381" cy="70" r="5" fill="#151F2B" stroke="#3EBEE0" stroke-width="2"/>
+    <text class="num" x="381" y="45" font-size="10.5" fill="#A7B3C2">03</text>
+    <text x="381" y="105">MODEL</text>
+
+    <circle cx="527" cy="70" r="10" fill="#5CB2D2" opacity="0.18" filter="url(#nodeGlowD)"><animate attributeName="opacity" values="0.10;0.30;0.10" dur="3s" begin="1.2s" repeatCount="indefinite"/></circle>
+    <circle cx="527" cy="70" r="5" fill="#151F2B" stroke="#5CB2D2" stroke-width="2"/>
+    <text class="num" x="527" y="45" font-size="10.5" fill="#A7B3C2">04</text>
+    <text x="527" y="105">TRAIN</text>
+
+    <circle cx="673" cy="70" r="10" fill="#7AA6C4" opacity="0.18" filter="url(#nodeGlowD)"><animate attributeName="opacity" values="0.10;0.30;0.10" dur="3s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="673" cy="70" r="5" fill="#151F2B" stroke="#7AA6C4" stroke-width="2"/>
+    <text class="num" x="673" y="45" font-size="10.5" fill="#A7B3C2">05</text>
+    <text x="673" y="105">EVALUATE</text>
+
+    <circle cx="819" cy="70" r="10" fill="#8F9BD6" opacity="0.18" filter="url(#nodeGlowD)"><animate attributeName="opacity" values="0.10;0.30;0.10" dur="3s" begin="2.0s" repeatCount="indefinite"/></circle>
+    <circle cx="819" cy="70" r="5" fill="#151F2B" stroke="#8F9BD6" stroke-width="2"/>
+    <text class="num" x="819" y="45" font-size="10.5" fill="#A7B3C2">06</text>
+    <text x="819" y="105">INTEGRATE</text>
+
+    <circle cx="964" cy="70" r="10" fill="#7D77E8" opacity="0.18" filter="url(#nodeGlowD)"><animate attributeName="opacity" values="0.10;0.30;0.10" dur="3s" begin="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="964" cy="70" r="5" fill="#151F2B" stroke="#7D77E8" stroke-width="2"/>
+    <text class="num" x="964" y="45" font-size="10.5" fill="#A7B3C2">07</text>
+    <text x="964" y="105">DEPLOY</text>
+
+    <circle cx="1110" cy="70" r="10" fill="#6C63FF" opacity="0.18" filter="url(#nodeGlowD)"><animate attributeName="opacity" values="0.10;0.30;0.10" dur="3s" begin="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="1110" cy="70" r="5" fill="#151F2B" stroke="#6C63FF" stroke-width="2"/>
+    <text class="num" x="1110" y="45" font-size="10.5" fill="#A7B3C2">08</text>
+    <text x="1110" y="105">MONITOR</text>
+  </g>
+</svg>
