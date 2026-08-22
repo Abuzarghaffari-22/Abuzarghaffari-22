@@ -224,6 +224,17 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
 
 <br/>
 
+<a name="approach"></a>
+### Approach
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-light.svg">
+  <img width="100%" src="assets/pipeline-light.svg" alt="Plan, Data, Model, Train, Evaluate, Integrate, Deploy, Monitor" />
+</picture>
+
+<br/>
+
 <a name="focus"></a>
 ### Current Focus
 
