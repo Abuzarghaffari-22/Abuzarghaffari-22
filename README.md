@@ -72,13 +72,13 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
 <div>
   <img src="https://cdn.simpleicons.org/python/008FCC" width="28" height="28" alt="Python logo" style="vertical-align:middle;margin-right:8px;" />
   <span style="vertical-align:middle;margin-right:20px;">Python</span>
-
+</br>
   <img src="https://cdn.simpleicons.org/pytorch/008FCC" width="28" height="28" alt="PyTorch logo" style="vertical-align:middle;margin-right:8px;" />
   <span style="vertical-align:middle;margin-right:20px;">PyTorch</span>
-
+</br>
   <img src="assets/yolo.svg" width="28" height="28" alt="YOLO logo" style="vertical-align:middle;margin-right:8px;" />
   <span style="vertical-align:middle;margin-right:20px;">YOLO</span>
-
+</br>
   <img src="https://cdn.simpleicons.org/opencv/008FCC" width="28" height="28" alt="OpenCV logo" style="vertical-align:middle;margin-right:8px;" />
   <span style="vertical-align:middle;">OpenCV</span>
 </div>
