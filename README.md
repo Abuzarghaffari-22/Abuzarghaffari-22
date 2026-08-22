@@ -54,12 +54,12 @@ My work spans the full lifecycle — system design, model development in **PyTor
 <a name="expertise"></a>
 ### Core Expertise
 
-- **Computer Vision** — YOLO, OpenCV — real-time object detection, OCR, and visual perception pipelines
-- **Generative AI & LLMs** — RAG, prompt engineering — LLM-powered applications that reason over retrieved context
-- **Agentic AI** — multi-step workflows — agents that plan, reason, and execute tasks end-to-end
-- **Deep Learning** — PyTorch — model design, training, and evaluation
-- **Robotics (ROS2)** — YOLO-based perception for autonomous systems
-- **AI Deployment & Backend** — FastAPI, Node.js, WebSockets — serving models as real-time, production APIs
+- **Computer Vision**: YOLO, OpenCV — real-time object detection, OCR, and visual perception pipelines
+- **Generative AI & LLMs**: RAG, prompt engineering — LLM-powered applications that reason over retrieved context
+- **Agentic AI**: multi-step workflows — agents that plan, reason, and execute tasks end-to-end
+- **Deep Learning**: PyTorch — model design, training, and evaluation
+- **Robotics (ROS2)**: YOLO-based perception for autonomous systems
+- **AI Deployment & Backend**: FastAPI, Node.js, WebSockets — serving models as real-time, production APIs
 
 <br/>
 
