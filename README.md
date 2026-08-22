@@ -14,16 +14,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=008FCC&center=true&vCenter=true&width=820&height=32&lines=Planning+intelligent+systems;Building+for+production;Shipping+reliable+AI" alt=""/>
 </picture>
 
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="260"><strong>5</strong><br/><sub>end‑to‑end AI systems shipped</sub></td>
-<td align="center" width="260"><strong>3</strong><br/><sub>core domains — CV · GenAI · Robotics</sub></td>
-<td align="center" width="260"><strong>01 → 08</strong><br/><sub>plan‑to‑monitor lifecycle, every time</sub></td>
-</tr>
-</table>
-
 <br/>
 
 <a href="#about">About</a> &nbsp;/&nbsp; <a href="#expertise">Expertise</a> &nbsp;/&nbsp; <a href="#stack">Stack</a> &nbsp;/&nbsp; <a href="#projects">Projects</a> &nbsp;/&nbsp; <a href="#approach">Approach</a>
