@@ -114,7 +114,7 @@ Real-time Automatic Number Plate Recognition system with a computer vision detec
 - FastAPI backend with WebSocket streaming for live results
 - MySQL-backed storage with a Next.js monitoring frontend
 
-<!-- Add once the repo is public: **Repository:** [github.com/Abuzarghaffari-22/anpr-system](https://github.com/Abuzarghaffari-22/REPO_NAME) -->
+<!-- Add once the repo is public: **Repository:** [github.com/Abuzarghaffari-22/AI_Powered_ANPR_System](https://github.com/Abuzarghaffari-22/AI_Powered_ANPR_System) -->
 
 <br/>
 
