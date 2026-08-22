@@ -22,14 +22,6 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:6C63FF,100:00D9FF&height=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:008FCC,50:5B5BD6,100:008FCC&height=2">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:008FCC,50:5B5BD6,100:008FCC&height=2" alt="" />
-</picture>
-
-<br/>
-
 <a name="about"></a>
 ### About
 
