@@ -28,7 +28,7 @@
 
 <br/>
 
-<a href="#about">About</a> &nbsp;/&nbsp; <a href="#expertise">Expertise</a> &nbsp;/&nbsp; <a href="#stack">Stack</a> &nbsp;/&nbsp; <a href="#projects">Projects</a> &nbsp;/&nbsp; <a href="#approach">Approach</a>
+<a href="#about">About</a> &nbsp;/&nbsp; <a href="#expertise">Expertise</a> &nbsp;/&nbsp; <a href="#stack">Stack</a> &nbsp;/&nbsp; <a href="#projects">Projects</a> &nbsp;/&nbsp; <a href="#approach">Approach</a> &nbsp;/&nbsp; <a href="#contact">Contact</a>
 
 </div>
 
@@ -47,7 +47,7 @@
 
 I design and build machine learning, computer vision, and generative AI systems — then carry them past the notebook stage into working software: FastAPI and Node.js backends, real-time data pipelines, and frontend integrations built around real constraints.
 
-My work spans the full lifecycle — system design, model development in **PyTorch** and **YOLO**, integration through **TypeScript / Next.js**, and LLM-based or agentic architectures on the generative side.
+My work spans the full lifecycle — system design, model development in **PyTorch** and **YOLO**, integration through **TypeScript / Next.js**, and LLM-based or agentic architectures on the generative side. I focus on reproducible, production-ready systems that solve real problems.
 
 <br/>
 
@@ -72,7 +72,7 @@ My work spans the full lifecycle — system design, model development in **PyTor
 
 **Generative AI & Agents**
 <br/>
-*RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agents&nbsp;&nbsp;·&nbsp;&nbsp;Agentic Workflows&nbsp;&nbsp;·&nbsp;&nbsp;Multimodal AI&nbsp;&nbsp;·&nbsp;&nbsp;LLM Applications*
+RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agents&nbsp;&nbsp;·&nbsp;&nbsp;Agentic Workflows&nbsp;&nbsp;·&nbsp;&nbsp;Multimodal AI&nbsp;&nbsp;·&nbsp;&nbsp;LLM Applications
 
 **Backend**
 <br/>
@@ -185,7 +185,7 @@ My work spans the full lifecycle — system design, model development in **PyTor
 
 **Focus:** LLM-powered applications, multimodal processing, agentic workflows
 
-<img src="https://cdn.simpleicons.org/python/008FCC" width="18" height="18" alt="Python"/> *LLMs&nbsp;&nbsp;·&nbsp;&nbsp;Multimodal AI&nbsp;&nbsp;·&nbsp;&nbsp;Agentic AI&nbsp;&nbsp;·&nbsp;&nbsp;GenAI Applications*
+<img src="https://cdn.simpleicons.org/python/008FCC" width="18" height="18" alt="Python"/> LLMs&nbsp;&nbsp;·&nbsp;&nbsp;Multimodal AI&nbsp;&nbsp;·&nbsp;&nbsp;Agentic AI&nbsp;&nbsp;·&nbsp;&nbsp;GenAI Applications
 
 - LLM-powered application architecture, designed around swappable model providers
 - Multimodal processing and agentic workflows for multi-step task execution
@@ -237,11 +237,11 @@ My work spans the full lifecycle — system design, model development in **PyTor
 
 <img src="https://cdn.simpleicons.org/github/008FCC" width="18" height="18" alt="GitHub"/> **GitHub** — [github.com/Abuzarghaffari-22](https://github.com/Abuzarghaffari-22)
 <br/>
-<img src="https://cdn.simpleicons.org/linkedin/008FCC" width="18" height="18" alt="LinkedIn"/> **LinkedIn** — [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)
+<img src="https://cdn.simpleicons.org/linkedin/008FCC" width="18" height="18" alt="LinkedIn"/> **LinkedIn** — [linkedin.com/in/abuzarghaffari](https://linkedin.com/in/abuzarghaffari)
 <br/>
-<img src="https://cdn.simpleicons.org/gmail/008FCC" width="18" height="18" alt="Email"/> **Email** — [your.email@example.com](mailto:your.email@example.com)
+<img src="https://cdn.simpleicons.org/gmail/008FCC" width="18" height="18" alt="Email"/> **Email** — [ag.businessofficial22@gmail.com](mailto:ag.businessofficial22@gmail.com)
 <br/>
-<img src="https://cdn.simpleicons.org/googledrive/008FCC" width="18" height="18" alt="CV"/> **CV** — [View Résumé](https://drive.google.com/your-cv-link)
+<img src="https://cdn.simpleicons.org/googledrive/008FCC" width="18" height="18" alt="CV"/> **CV** — [View Résumé](https://drive.google.com/file/d/your-cv-id/view)
 
 <br/>
 
