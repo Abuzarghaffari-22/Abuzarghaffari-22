@@ -14,8 +14,6 @@
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=008FCC&center=true&vCenter=true&width=820&height=32&lines=Planning+intelligent+systems;Building+for+production;Shipping+reliable+AI" alt=""/>
 </picture>
 
-<sub>Adapts to light & dark — toggle under <b>GitHub Settings → Appearance</b></sub>
-
 <br/><br/>
 
 <table>
