@@ -166,6 +166,12 @@ RAG · Prompt Engineering · Hugging Face · Agentic Workflows · Multimodal AI 
 <a name="approach"></a>
 ### My Approach
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/pipeline-light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/pipeline-dark.svg">
+  <img width="100%" src="assets/pipeline-dark.svg" alt="Plan, Data, Model, Train, Evaluate, Integrate, Deploy, Monitor"/>
+</picture>
+
 - Build reproducible systems, not isolated notebooks
 - Evaluate models with meaningful, task-appropriate metrics
 - Design inference for the target hardware and latency budget
