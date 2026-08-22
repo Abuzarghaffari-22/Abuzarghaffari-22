@@ -9,9 +9,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=00D9FF&center=true&vCenter=true&[...]">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=008FCC&center=true&vCenter=true[...]">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=008FCC&center=true&vCenter=true&width=820&height=32&lines=Planning+intellig[...]">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=00D9FF&center=true&vCenter=true&lines=Planning+intelligent+AI+systems">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=008FCC&center=true&vCenter=true&lines=Planning+intelligent+AI+systems">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1800&color=008FCC&center=true&vCenter=true&width=820&height=32&lines=Planning+intelligent+AI+systems" alt="Planning intelligent AI systems" />
 </picture>
 
 <sub>Adapts to light & dark — toggle under <b>GitHub Settings → Appearance</b></sub>
@@ -28,7 +28,7 @@
 
 <br/>
 
-<a href="#about">About</a> &nbsp;/&nbsp; <a href="#expertise">Expertise</a> &nbsp;/&nbsp; <a href="#stack">Stack</a> &nbsp;/&nbsp; <a href="#projects">Projects</a> &nbsp;/&nbsp; <a href="#approach[...]
+<a href="#about">About</a> &nbsp;/&nbsp; <a href="#expertise">Expertise</a> &nbsp;/&nbsp; <a href="#stack">Stack</a> &nbsp;/&nbsp; <a href="#projects">Projects</a> &nbsp;/&nbsp; <a href="#approach">Approach</a>
 
 </div>
 
@@ -45,9 +45,9 @@
 <a name="about"></a>
 ### About
 
-I design and build machine learning, computer vision, and generative AI systems — then carry them past the notebook stage into working software: FastAPI and Node.js backends, real-time data pipe[...]
+I design and build machine learning, computer vision, and generative AI systems — then carry them past the notebook stage into working software: FastAPI and Node.js backends, real-time data pipelines, and production-ready APIs.
 
-My work spans the full lifecycle — system design, model development in **PyTorch** and **YOLO**, integration through **TypeScript / Next.js**, and LLM-based or agentic architectures on the gener[...]
+My work spans the full lifecycle — system design, model development in **PyTorch** and **YOLO**, integration through **TypeScript / Next.js**, and LLM-based or agentic architectures on the generative side.
 
 <br/>
 
@@ -68,31 +68,31 @@ My work spans the full lifecycle — system design, model development in **PyTor
 
 **Machine Learning**
 <br/>
-<img src="https://cdn.simpleicons.org/python/008FCC" width="20" height="20" alt="Python"/> Python&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pytorch/008FCC" width="20" height="20[...]
+<img src="https://cdn.simpleicons.org/python/008FCC" width="20" height="20" alt="Python"/> Python&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/pytorch/008FCC" width="20" height="20" alt="PyTorch"/> PyTorch
 
 **Generative AI & Agents**
 <br/>
-RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agents&nbsp;&nbsp;·&nbsp;&nbsp;Agentic Workflows&nbsp;&nbsp;·&nbsp;&nbsp;Multimodal AI&nbsp;&nbsp;·&nbsp;&nbsp;LLM Ap[...]
+RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agents&nbsp;&nbsp;·&nbsp;&nbsp;Agentic Workflows&nbsp;&nbsp;·&nbsp;&nbsp;Multimodal AI&nbsp;&nbsp;·&nbsp;&nbsp;LLM Applications
 
 **Backend**
 <br/>
-<img src="https://cdn.simpleicons.org/fastapi/008FCC" width="20" height="20" alt="FastAPI"/> FastAPI&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nodedotjs/008FCC" width="20" heigh[...]
+<img src="https://cdn.simpleicons.org/fastapi/008FCC" width="20" height="20" alt="FastAPI"/> FastAPI&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/nodedotjs/008FCC" width="20" height="20" alt="Node.js"/> Node.js
 
 **Frontend**
 <br/>
-<img src="https://cdn.simpleicons.org/typescript/008FCC" width="20" height="20" alt="TypeScript"/> TypeScript&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/008FCC" width=[...]
+<img src="https://cdn.simpleicons.org/typescript/008FCC" width="20" height="20" alt="TypeScript"/> TypeScript&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/javascript/008FCC" width="20" height="20" alt="JavaScript"/> JavaScript
 
 **Databases**
 <br/>
-<img src="https://cdn.simpleicons.org/mysql/008FCC" width="20" height="20" alt="MySQL"/> MySQL&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/008FCC" width="20" height="20" alt="PostgreSQL"/>
+<img src="https://cdn.simpleicons.org/mysql/008FCC" width="20" height="20" alt="MySQL"/> MySQL&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/postgresql/008FCC" width="20" height="20" alt="PostgreSQL"/> PostgreSQL
 
 **Robotics**
 <br/>
-<img src="https://cdn.simpleicons.org/ros/008FCC" width="20" height="20" alt="ROS2"/> ROS2&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opencv/008FCC" width="20" height="20" alt="O[...]
+<img src="https://cdn.simpleicons.org/ros/008FCC" width="20" height="20" alt="ROS2"/> ROS2&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opencv/008FCC" width="20" height="20" alt="OpenCV"/> OpenCV
 
 **Tools & DevOps**
 <br/>
-<img src="https://cdn.simpleicons.org/git/008FCC" width="20" height="20" alt="Git"/> Git&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/008FCC" width="20" height="20" alt="Git[...]
+<img src="https://cdn.simpleicons.org/git/008FCC" width="20" height="20" alt="Git"/> Git&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/github/008FCC" width="20" height="20" alt="GitHub"/> GitHub
 
 <br/>
 
@@ -112,9 +112,7 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 
 `COMPUTER VISION` `OCR` `REAL TIME`
 
-**Perception:** YOLOv11, custom-trained &nbsp;·&nbsp; **OCR:** Tesseract, multi-variant voting &nbsp;·&nbsp; **Backend:** FastAPI, JWT-secured REST API &nbsp;·&nbsp; **Database:** MySQL, fuzzy[...]
-
-<img src="https://cdn.simpleicons.org/fastapi/008FCC" width="18" height="18" alt="FastAPI"/> <img src="https://cdn.simpleicons.org/mysql/008FCC" width="18" height="18" alt="MySQL"/> <img src="htt[...]
+**Perception:** YOLOv11, custom-trained · **OCR:** Tesseract, multi-variant voting · **Backend:** FastAPI, JWT-secured REST API · **Database:** MySQL, fuzzy-matching
 
 - Custom-trained YOLOv11 model detects plates from a live webcam or IP camera feed
 - Multi-variant OCR voting pipeline improves read accuracy on Pakistani plates
@@ -130,9 +128,7 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 
 `GENERATIVE AI` `HEALTHCARE` `FULL STACK`
 
-**AI Layer:** Python + FastAPI, HuggingFace Inference API &nbsp;·&nbsp; **Backend:** Node.js + Express, MongoDB &nbsp;·&nbsp; **Frontend:** React 18 + Vite, TailwindCSS &nbsp;·&nbsp; **Auth:**[...]
-
-<img src="https://cdn.simpleicons.org/python/008FCC" width="18" height="18" alt="Python"/> <img src="https://cdn.simpleicons.org/fastapi/008FCC" width="18" height="18" alt="FastAPI"/> <img src="h[...]
+**AI Layer:** Python + FastAPI, HuggingFace Inference API · **Backend:** Node.js + Express, MongoDB · **Frontend:** React 18 + Vite, TailwindCSS
 
 - Conversational AI service classifies patient intent — booking, symptom triage, general Q&A — and routes accordingly
 - Three independent services (React frontend, Express API, Python AI service) composed via Docker Compose
@@ -148,9 +144,7 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 
 `LLM APPLICATIONS` `REAL TIME` `FULL STACK`
 
-**AI Layer:** Python + FastAPI, HuggingFace Inference API, prompt-injection guard &nbsp;·&nbsp; **Backend:** Node.js + Express, MongoDB, Socket.IO &nbsp;·nbsp; **Frontend:** React 18 + Vite, Z[...]
-
-<img src="https://cdn.simpleicons.org/python/008FCC" width="18" height="18" alt="Python"/> <img src="https://cdn.simpleicons.org/fastapi/008FCC" width="18" height="18" alt="FastAPI"/> <img src="h[...]
+**AI Layer:** Python + FastAPI, HuggingFace Inference API, prompt-injection guard · **Backend:** Node.js + Express, MongoDB, Socket.IO · **Frontend:** React 18 + Vite
 
 - Real-time chat over Socket.IO — the backend assembles live menu, hours, and policy context into the LLM prompt
 - Deterministic REST shortcuts for common questions (menu, hours) bypass the LLM entirely for instant, quota-free replies
@@ -166,9 +160,7 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 
 `ROBOTICS` `COMPUTER VISION` `ROS2`
 
-**Perception:** YOLO11, OpenCV &nbsp;·&nbsp; **Platform:** ROS2 node architecture, Linux
-
-<img src="https://cdn.simpleicons.org/ros/008FCC" width="18" height="18" alt="ROS2"/> <img src="https://cdn.simpleicons.org/opencv/008FCC" width="18" height="18" alt="OpenCV"/> <img src="https://[...]
+**Perception:** YOLO11, OpenCV · **Platform:** ROS2 node architecture, Linux
 
 - Real-time detection across six object classes: Person, Chair, Table, Tray, Trolley, Bag
 - ROS2 node architecture for sensor and perception integration
@@ -184,8 +176,6 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 `GENERATIVE AI` `AGENTIC AI` `MULTIMODAL`
 
 **Focus:** LLM-powered applications, multimodal processing, agentic workflows
-
-<img src="https://cdn.simpleicons.org/python/008FCC" width="18" height="18" alt="Python"/> LLMs&nbsp;&nbsp;·&nbsp;&nbsp;Multimodal AI&nbsp;&nbsp;·&nbsp;&nbsp;Agentic AI&nbsp;&nbsp;·nbsp;[...]
 
 - LLM-powered application architecture, designed around swappable model providers
 - Multimodal processing and agentic workflows for multi-step task execution
@@ -235,15 +225,21 @@ RAG&nbsp;&nbsp;·&nbsp;&nbsp;Prompt Engineering&nbsp;&nbsp;·&nbsp;&nbsp;AI Agen
 <a name="contact"></a>
 ### Contact
 
-\<img src="[https://cdn.simpleicons.org/github/008FCC](https://cdn.simpleicons.org/github/008FCC)" width="18" height="18" alt="" aria-hidden="true"/> \*\*GitHub\*\* — [github.com/Abuzarghaffari-22]\([https://github.com/Abuzarghaffari-22](https://github.com/Abuzarghaffari-22))
-\<br/>
-\<img src="[https://cdn.simpleicons.org/linkedin/008FCC](https://cdn.simpleicons.org/linkedin/008FCC)" width="18" height="18" alt="" aria-hidden="true"/> \*\*LinkedIn\*\* — [linkedin.com/in/abuzarghaffari]\([https://linkedin.com/in/abuzarghaffari](https://linkedin.com/in/abuzarghaffari))
-\<br/>
-\<img src="[https://cdn.simpleicons.org/gmail/008FCC](https://cdn.simpleicons.org/gmail/008FCC)" width="18" height="18" alt="" aria-hidden="true"/> \*\*Email\*\* — [ag.businessofficial22\@gmail.com]\(mailto\:ag.businessofficial22\@gmail.com)
-\<br/>
-\<img src="[https://cdn.simpleicons.org/googledrive/008FCC](https://cdn.simpleicons.org/googledrive/008FCC)" width="18" height="18" alt="" aria-hidden="true"/> \*\*CV\*\* — [View Résumé]\([https://drive.google.com/your-cv-link](https://drive.google.com/your-cv-link))
+<img src="https://cdn.simpleicons.org/github/008FCC" width="18" height="18" alt="GitHub" aria-hidden="true"/> **GitHub** — [github.com/Abuzarghaffari-22](https://github.com/Abuzarghaffari-22)
+<br/>
+<img src="https://cdn.simpleicons.org/linkedin/008FCC" width="18" height="18" alt="LinkedIn"/> **LinkedIn** — [linkedin.com/in/abuzarghaffari](https://www.linkedin.com/in/abuzarghaffari)
+<br/>
+<img src="https://cdn.simpleicons.org/gmail/008FCC" width="18" height="18" alt="Email" aria-hidden="true"/> **Email** — [ag.businessofficial22@gmail.com](mailto:ag.businessofficial22@gmail.com)
+<br/>
+<img src="https://cdn.simpleicons.org/googledrive/008FCC" width="18" height="18" alt="CV" aria-hidden="true"/> **CV** — [View Résumé](https://drive.google.com/your-cv-link)
 
-\<br/> 
+<br/>
+
+<div align="center">
+<sub><i>Building systems that go from prototype to production — not the other way around.</i></sub>
+</div>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:00D9FF,50:6C63FF,100:00D9FF&height=2">
