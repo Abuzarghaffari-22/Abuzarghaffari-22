@@ -3,7 +3,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0D1117,100:1A1A2E&height=195&section=header&text=Abuzar%20Ghaffari&fontSize=42&fontColor=D4AF37&fontAlignY=34&desc=AI%20Engineer%20%7C%20Computer%20Vision%2C%20Generative%20AI%2C%20Agentic%20Systems&descAlignY=52&descSize=14&descColor=00E5FF&animation=fadeIn">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0D1117,100:1F0F3D&height=195&section=header&text=Abuzar%20Ghaffari&fontSize=42&fontColor=D4AF37&fontAlignY=34&desc=AI%20Engineer%20%7C%20Computer%20Vision%2C%20Generative%20AI%2C%20Agentic%20Systems&descAlignY=52&descSize=14&descColor=00E5FF&animation=twinkling">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FDFBF7,35:F3EFE4,100:EAE0C8&height=195&section=header&text=Abuzar%20Ghaffari&fontSize=42&fontColor=0A2540&fontAlignY=34&desc=AI%20Engineer%20%7C%20Computer%20Vision%2C%20Generative%20AI%2C%20Agentic%20Systems&descAlignY=52&descSize=14&descColor=6C2BD9&animation=fadeIn">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FDFBF7,35:F3EFE4,100:EAE0C8&height=195&section=header&text=Abuzar%20Ghaffari&fontSize=42&fontColor=0A2540&fontAlignY=34&desc=AI%20Engineer%20%7C%20Computer%20Vision%2C%20Generative%20AI%2C%20Agentic%20Systems&descAlignY=52&descSize=14&descColor=6C2BD9&animation=fadeIn" alt="Abuzar Ghaffari — AI Engineer header banner" />
 </picture>
@@ -18,20 +18,15 @@
 
 <br/><br/>
 
-**[About](#about)** &nbsp;·&nbsp; **[Stack](#technology-stack)** &nbsp;·&nbsp; **[Projects](#featured-projects)** &nbsp;·&nbsp; **[Analytics](#github-analytics)** &nbsp;·&nbsp; **[Workflow](#ai-engineering-workflow)** &nbsp;·&nbsp; **[Contact](#contact)**
+**[About](#about)** &nbsp;·&nbsp; **[Stack](#technology-stack)** &nbsp;·&nbsp; **[Projects](#featured-projects)** &nbsp;·&nbsp; **[Workflow](#ai-engineering-workflow)** &nbsp;·&nbsp; **[Contact](#contact)**
 
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,nodejs,express,react,nextjs,typescript,mysql,postgres,mongodb,ros,docker,git,github,linux&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,nodejs,express,react,nextjs,typescript,mysql,postgres,mongodb,ros,docker,git,github,linux&theme=light">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,fastapi,nodejs,express,react,nextjs,typescript,mysql,postgres,mongodb,ros,docker,git,github,linux&theme=light" alt="Core technology icon set" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,opencv,fastapi,nodejs,express,react,nextjs,ts,mysql,postgres,mongodb,ros,docker,git,github,linux&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pytorch,opencv,fastapi,nodejs,express,react,nextjs,ts,mysql,postgres,mongodb,ros,docker,git,github,linux&theme=light">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,fastapi,nodejs,express,react,nextjs,ts,mysql,postgres,mongodb,ros,docker,git,github,linux&theme=light" alt="Core technology icon set" />
 </picture>
-
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Abuzarghaffari-22&style=for-the-badge&color=D4AF37&label=PROFILE+VIEWS)](https://github.com/Abuzarghaffari-22)
-[![Followers](https://img.shields.io/github/followers/Abuzarghaffari-22?style=for-the-badge&logo=github&logoColor=00E5FF&label=FOLLOWERS&color=0D1117&labelColor=0D1117)](https://github.com/Abuzarghaffari-22?tab=followers)
 
 </div>
 
@@ -76,53 +71,63 @@ My toolset spans PyTorch and YOLO for model work, OpenCV for vision pipelines, a
 
 **AI / Machine Learning**
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=D4AF37)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=D4AF37)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=D4AF37)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=D4AF37)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=D4AF37)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0D1117?style=for-the-badge&logo=scikitlearn&logoColor=D4AF37)
-&nbsp;`YOLO`&nbsp;`OCR`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn&theme=light">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,opencv,sklearn&theme=light" alt="AI and machine learning stack" />
+</picture>
+<br/>
+`YOLO` &nbsp;`OCR`&nbsp; `NumPy` &nbsp;`Pandas`
 
 **Generative AI**
 
-`LLM Applications`&nbsp;`RAG`&nbsp;`Prompt Engineering`&nbsp;`AI Agents`&nbsp;`Agentic AI`&nbsp;`Multimodal AI`
+`LLM Applications` &nbsp;`RAG`&nbsp; `Prompt Engineering` &nbsp;`AI Agents`&nbsp; `Agentic AI` &nbsp;`Multimodal AI`
 
 **Backend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=for-the-badge&logo=fastapi&logoColor=00E5FF)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00E5FF)
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=00E5FF)
-&nbsp;`REST APIs`&nbsp;`WebSockets`&nbsp;`Socket.IO`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=light">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express&theme=light" alt="Backend stack" />
+</picture>
+<br/>
+`REST APIs` &nbsp;`WebSockets`&nbsp; `Socket.IO`
 
 **Frontend**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=B84FFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=B84FFF)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=B84FFF)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=B84FFF)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,react,nextjs&theme=light">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs&theme=light" alt="Frontend stack" />
+</picture>
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00E5FF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00E5FF)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00E5FF)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light" alt="Database stack" />
+</picture>
 
 **Robotics**
 
-![ROS2](https://img.shields.io/badge/ROS2-0D1117?style=for-the-badge&logo=ros&logoColor=D4AF37)
-![OpenCV](https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=D4AF37)
-&nbsp;`YOLO-based Perception`&nbsp;`Autonomous Systems`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ros,opencv&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ros,opencv&theme=light">
+  <img src="https://skillicons.dev/icons?i=ros,opencv&theme=light" alt="Robotics stack" />
+</picture>
+<br/>
+`YOLO-based Perception` &nbsp;`Autonomous Systems`
 
 **Tools / DevOps**
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=B84FFF)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=B84FFF)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=B84FFF)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=B84FFF)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=B84FFF)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-0D1117?style=for-the-badge&logo=googlecolab&logoColor=B84FFF)
-&nbsp;`Roboflow`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=light">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=light" alt="Tools and DevOps stack" />
+</picture>
+<br/>
+`Roboflow` &nbsp;`Google Colab`
 
 <br/>
 
@@ -212,47 +217,6 @@ Multimodal AI platform focused on generative AI and intelligent application deve
 - API-driven integration for generative AI features
 
 **Repository:** Private — architecture and demo available on request
-
-<br/>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,50:00E5FF,100:B84FFF&height=3">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:6C2BD9,100:0A2540&height=3">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:B8860B,50:6C2BD9,100:0A2540&height=3" alt="" />
-</picture>
-</div>
-
-## GitHub Analytics
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abuzarghaffari-22&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=D4AF37&icon_color=00E5FF&text_color=F5F5F7&ring_color=D4AF37">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Abuzarghaffari-22&show_icons=true&hide_border=true&count_private=true&bg_color=FDFBF7&title_color=0A2540&icon_color=6C2BD9&text_color=1C1C1E&ring_color=B8860B">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abuzarghaffari-22&show_icons=true&hide_border=true&count_private=true&bg_color=FDFBF7&title_color=0A2540&icon_color=6C2BD9&text_color=1C1C1E&ring_color=B8860B" alt="Abuzar's GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abuzarghaffari-22&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4AF37&text_color=F5F5F7">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abuzarghaffari-22&layout=compact&hide_border=true&bg_color=FDFBF7&title_color=0A2540&text_color=1C1C1E">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abuzarghaffari-22&layout=compact&hide_border=true&bg_color=FDFBF7&title_color=0A2540&text_color=1C1C1E" alt="Top languages" />
-</picture>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Abuzarghaffari-22&hide_border=true&background=0D1117&border=0D1117&ring=D4AF37&fire=00E5FF&currStreakLabel=D4AF37&sideLabels=F5F5F7&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=8B949E">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Abuzarghaffari-22&hide_border=true&background=FDFBF7&border=FDFBF7&ring=B8860B&fire=6C2BD9&currStreakLabel=0A2540&sideLabels=1C1C1E&currStreakNum=1C1C1E&sideNums=1C1C1E&dates=6B6B6B">
-  <img width="65%" src="https://streak-stats.demolab.com/?user=Abuzarghaffari-22&hide_border=true&background=FDFBF7&border=FDFBF7&ring=B8860B&fire=6C2BD9&currStreakLabel=0A2540&sideLabels=1C1C1E&currStreakNum=1C1C1E&sideNums=1C1C1E&dates=6B6B6B" alt="GitHub streak stats" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abuzarghaffari-22&bg_color=0D1117&color=00E5FF&line=D4AF37&point=F5F5F7&area=true&area_color=D4AF37&hide_border=true&hide_title=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Abuzarghaffari-22&bg_color=FDFBF7&color=6C2BD9&line=B8860B&point=0A2540&area=true&area_color=B8860B&hide_border=true&hide_title=true">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abuzarghaffari-22&bg_color=FDFBF7&color=6C2BD9&line=B8860B&point=0A2540&area=true&area_color=B8860B&hide_border=true&hide_title=true" alt="Contribution activity graph" />
-</picture>
-
-</div>
 
 <br/>
 
@@ -354,7 +318,7 @@ Multimodal AI platform focused on generative AI and intelligent application deve
 <p align="center"><a href="#top">↑ Back to top</a></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:0D1117,100:000000&height=110&section=footer&animation=fadeIn">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1F0F3D,50:0D1117,100:000000&height=110&section=footer&animation=twinkling">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:EAE0C8,50:F3EFE4,100:FDFBF7&height=110&section=footer&animation=fadeIn">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EAE0C8,50:F3EFE4,100:FDFBF7&height=110&section=footer&animation=fadeIn" alt="" />
 </picture>
