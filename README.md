@@ -211,43 +211,31 @@ AI conversational assistant built around retrieval-augmented generation and natu
 
 ---
 
-<details>
-<summary><strong>GitHub Activity</strong> — live stats, pulled directly from the GitHub API</summary>
-
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-stats.shion.dev/api?username=Abuzarghaffari-22&show_icons=true&include_all_commits=false&count_private=false&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics for Abuzarghaffari-22" />
-
-<img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Abuzarghaffari-22&layout=compact&theme=tokyonight&hide_border=false&border_color=30363D&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used programming languages" />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abuzarghaffari-22&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="GitHub contribution activity graph" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Abuzarghaffari-22&color=58A6FF&style=flat-square&label=Profile+Views" alt="Live profile view counter" />
-
-</div>
-
-</details>
-
-<br/>
-
----
-
 ## Contact
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/Abuzarghaffari-22)
-<!-- Uncomment each line below once you have the real URL — do not publish with placeholder text visible:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge)](https://your-portfolio.com)
--->
 
 </div>
+
+<!--
+============================================================
+ ADD YOUR CONTACT INFO HERE - this is the only editing left.
+ For each line below: replace YOUR_..._HERE with your real
+ URL or email. Then delete the two comment-marker lines that
+ open and close this block (the very top and very bottom of
+ this comment) so the badges become visible on your profile.
+============================================================
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](YOUR_LINKEDIN_URL_HERE)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF)](mailto:YOUR_EMAIL_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge)](YOUR_PORTFOLIO_URL_HERE)
+
+</div>
+-->
 
 <br/>
 
