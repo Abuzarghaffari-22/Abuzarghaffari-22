@@ -205,7 +205,7 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
 - ROS2 node architecture for sensor and perception integration
 - YOLO11-based inference pipeline, built and tested on Linux
 
-*→ Private repository — architecture and demo available on request*
+**→ [View Repository](https://github.com/Abuzarghaffari-22/DoDoBot_Obstacle_Avoidance)**
 
 <br/>
 
