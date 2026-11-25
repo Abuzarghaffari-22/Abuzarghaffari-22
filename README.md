@@ -201,7 +201,7 @@ Below are the primary technologies and tools I use. Icons load from simpleicons.
 
 **Perception:** YOLO11, OpenCV · **Platform:** ROS2 node architecture, Linux
 
-- Real-time detection across six object classes: Person, Chair, Table, Tray, Trolley, Bag
+- Real-time detection across five object classes: Person, Chair, Table, Tray, Bag
 - ROS2 node architecture for sensor and perception integration
 - YOLO11-based inference pipeline, built and tested on Linux
 
